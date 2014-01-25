@@ -65,4 +65,5 @@ http://ats.oka.nu/titaniumcore/js/crypto/readme.txt
 
 an object oriented cryptography toolkit that implements several fundamental cryptographic algorithms
 
+* asynchronous RSA key generation
 * based on jsbn
