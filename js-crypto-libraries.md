@@ -117,3 +117,11 @@ A WebCrypto Polyfill
 https://github.com/polycrypt/foxycrypt
 
 A Firefox extension for the Web Cryptography API
+
+
+## cryptojs
+http://cryptojs.altervista.org/
+
+JavaScript Cryptography
+
+* Last modified: - 09/05/2012
