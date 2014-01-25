@@ -94,3 +94,4 @@ https://github.com/openpeer/cifre
 Cifre is a fast crypto toolkit for modern client-side JavaScript. This is done by taking the best crypto code for js on the net and updating it to use modern technologies. There are plans to collaborate with the forge project.
 
 * MIT License
+* 2013-07-30 14:09:58
