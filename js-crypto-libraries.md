@@ -87,3 +87,10 @@ This library is an object oriented cryptography library that implements several 
 
 * License [GNU Lesser GPL](http://www.gnu.org/licenses/lgpl.html)
 * Feb 25, 2009
+
+## Cifre
+https://github.com/openpeer/cifre
+
+Cifre is a fast crypto toolkit for modern client-side JavaScript. This is done by taking the best crypto code for js on the net and updating it to use modern technologies. There are plans to collaborate with the forge project.
+
+* MIT License
