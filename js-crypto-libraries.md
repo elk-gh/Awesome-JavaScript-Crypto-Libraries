@@ -65,10 +65,15 @@ JavaScript implementations of standard and secure cryptographic algorithms
 ## crypto
 http://ats.oka.nu/titaniumcore/js/crypto/readme.txt
 
+JavaScript Cryptography Toolkit
+
 This library is an object oriented cryptography toolkit that implements several
 fundamental cryptographic algorithms including TWOFISH, SERPENT, RIJNDAEL, RSA
 with key-generation and SHA(SHA-1,224,256,384,512) for JavaScript. This library
-works in ActionScript as well.
+works in ActionScript as well. The unique feature of this library is
+asynchronous processing. A heavyweight process such as 4096bit RSA key
+generation will be done asynchronously so that this library does not cause
+problems such as freezing browsers, "slow-downing" warning dialogs, etc.
 
 * asynchronous RSA key generation
 * based on jsbn
