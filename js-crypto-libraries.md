@@ -65,7 +65,20 @@ JavaScript implementations of standard and secure cryptographic algorithms
 ## crypto
 http://ats.oka.nu/titaniumcore/js/crypto/readme.txt
 
-an object oriented cryptography toolkit that implements several fundamental cryptographic algorithms
+This library is an object oriented cryptography toolkit that implements several
+fundamental cryptographic algorithms including TWOFISH, SERPENT, RIJNDAEL, RSA
+with key-generation and SHA(SHA-1,224,256,384,512) for JavaScript. This library
+works in ActionScript as well.
 
 * asynchronous RSA key generation
 * based on jsbn
+
+## jscrypto
+http://code.google.com/p/jscryptolib/
+
+A JavaScript Cryptography Library
+
+This library is an object oriented cryptography library that implements several fundamental cryptographic algorithms including AES, SHA-1, HMAC, BASE64, RSA, ECC and IBE for JavaScript. This library works in ActionScript as well. 
+
+* License [GNU Lesser GPL](http://www.gnu.org/licenses/lgpl.html)
+* Feb 25, 2009
