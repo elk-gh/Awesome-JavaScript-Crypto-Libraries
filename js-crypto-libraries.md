@@ -1,5 +1,7 @@
 JavaScript Crypto Libraries
 ===========================
+I start with a list and plan to create a comparison table.
+
 
 ## sjcl
 http://bitwiseshiftleft.github.io/sjcl/
