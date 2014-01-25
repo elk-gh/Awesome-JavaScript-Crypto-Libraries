@@ -1,7 +1,7 @@
 JavaScript Crypto Libraries
 ===========================
 
-| Disclaimer: [Javascript Cryptography Considered Harmful](http://www.matasano.com/articles/javascript-cryptography/)
+-- Disclaimer: [Javascript Cryptography Considered Harmful](http://www.matasano.com/articles/javascript-cryptography/)
 
 I start with a list and plan to create a comparison table.
 
