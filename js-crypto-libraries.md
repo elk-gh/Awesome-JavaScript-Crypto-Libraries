@@ -18,6 +18,8 @@ http://www-cs-students.stanford.edu/~tjw/jsbn/
 
 RSA and ECC in JavaScript
 
+* Version 1.4 (7/1/2013)
+
 ## ursa
 https://github.com/Obvious/ursa
 
