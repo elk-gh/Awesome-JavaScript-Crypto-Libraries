@@ -53,6 +53,8 @@ https://github.com/digitalbazaar/forge
 
 A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 
+* based on jsbn
+
 ## CryptoJS
 http://code.google.com/p/crypto-js/ 
 
