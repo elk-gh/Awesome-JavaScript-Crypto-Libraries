@@ -6,6 +6,13 @@ _Disclaimer: [Javascript Cryptography Considered Harmful](http://www.matasano.co
 I start with a list and plan to create a comparison table.
 
 
+### WebCryptoAPI
+http://www.w3.org/TR/WebCryptoAPI/
+
+This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption. Additionally, it describes an API for applications to generate and/or manage the keying material necessary to perform these operations. Uses for this API range from user or service authentication, document or code signing, and the confidentiality and integrity of communications. 
+
+* W3C Working Draft 25 June 2013
+
 ## sjcl
 http://bitwiseshiftleft.github.io/sjcl/
 
@@ -98,3 +105,5 @@ Cifre is a fast crypto toolkit for modern client-side JavaScript. This is done b
 
 * MIT License
 * 2013-07-30 14:09:58
+
+
