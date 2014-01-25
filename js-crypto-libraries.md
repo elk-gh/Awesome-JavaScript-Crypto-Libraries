@@ -59,3 +59,10 @@ A native implementation of TLS in Javascript and tools to write crypto-based and
 http://code.google.com/p/crypto-js/ 
 
 JavaScript implementations of standard and secure cryptographic algorithms
+
+## crypto
+http://ats.oka.nu/titaniumcore/js/crypto/readme.txt
+
+an object oriented cryptography toolkit that implements several fundamental cryptographic algorithms
+
+* based on jsbn
