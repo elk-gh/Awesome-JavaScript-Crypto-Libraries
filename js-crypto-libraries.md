@@ -13,6 +13,7 @@ This specification describes a JavaScript API for performing basic cryptographic
 
 * W3C Working Draft 25 June 2013
 
+
 ## sjcl
 http://bitwiseshiftleft.github.io/sjcl/
 
@@ -107,3 +108,12 @@ Cifre is a fast crypto toolkit for modern client-side JavaScript. This is done b
 * 2013-07-30 14:09:58
 
 
+##  PolyCrypt
+http://polycrypt.net/
+
+A WebCrypto Polyfill
+
+## FoxyCrypt
+https://github.com/polycrypt/foxycrypt
+
+A Firefox extension for the Web Cryptography API
