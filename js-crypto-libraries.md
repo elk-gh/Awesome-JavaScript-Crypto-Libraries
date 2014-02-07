@@ -1,9 +1,16 @@
 JavaScript Crypto Libraries
 ===========================
+I start with a list and plan to create a comparison table.
 
 _Disclaimer: [Javascript Cryptography Considered Harmful](http://www.matasano.com/articles/javascript-cryptography/)_
 
-I start with a list and plan to create a comparison table.
+#### Security recommendations
+
+> It should be noted that js crypto apps deployed via regular web hosting (a.k.a. host-based security) provide users with less security than installable apps with auditable static versions. Installable apps can be deployed as a Firefox or Chrome packaged app. These apps are basically signed zip files and their runtimes typically enforce a strict Content Security Policy (CSP) to protect users against XSS. This blogpost explains the trust model of the web quite well.
+
+> It is also recommended to set a strong passphrase that protects the user's private key on disk.
+
+from [OpenPGP.js README](https://github.com/openpgpjs/openpgpjs)
 
 
 ### WebCryptoAPI
@@ -41,7 +48,7 @@ https://github.com/travist/jsencrypt
 
 Provides a simple wrapper around the fantastic work done by Tom Wu for RSA Encryption for JavaScript.
 
-## openpgpjs
+## OpenPGP.js
 https://github.com/openpgpjs/openpgpjs
 
 OpenPGP implementation for JavaScript
