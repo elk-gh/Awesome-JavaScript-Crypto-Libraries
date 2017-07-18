@@ -15,13 +15,13 @@ JavaScript implementation of JSON Web Signatures, JSON Web Tokens, and JSON Web 
 
 [![Last Update](https://img.shields.io/badge/Last%20Update-2013-orange.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/hookflash/obsolete.cifre.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/hookflash/obsolete.cifre.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/hookflash/obsolete.cifre.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/hookflash/obsolete.cifre.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/hookflash/obsolete.cifre.svg?style=flat-square)]()
 
-Cifre is a fast crypto toolkit for modern client-side JavaScript. This is done by taking the best crypto code for js on the net and updating it to use modern technologies. CURRETNLY they use [FORGE](#forge) exclusively.
+Cifre is a fast crypto toolkit for modern client-side JavaScript. This is done by taking the best crypto code for js on the net and updating it to use modern technologies. CURRENTLY they move to [FORGE](#forge---official-site).
 
 
 
-## [Cryptico](https://github.com/wwwtyro/cryptico)
+## [Cryptico](https://github.com/wwwtyro/cryptico) - [Official Site](http://wwwtyro.github.io/cryptico/)
 
-[![Last Update](https://img.shields.io/badge/Last%20Update-2012-red.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/wwwtyro/cryptico.svg?style=flat-square)]() [Official Site](http://wwwtyro.github.io/cryptico/) - [![GitHub watchers](https://img.shields.io/github/watchers/wwwtyro/cryptico.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/wwwtyro/cryptico.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/wwwtyro/cryptico.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/wwwtyro/cryptico.svg?style=flat-square)]()
+[![Last Update](https://img.shields.io/badge/Last%20Update-2012-red.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/wwwtyro/cryptico.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/wwwtyro/cryptico.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/wwwtyro/cryptico.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/wwwtyro/cryptico.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/wwwtyro/cryptico.svg?style=flat-square)]()
 
 An easy-to-use encryption system utilizing RSA and AES for javascript.
 
@@ -29,7 +29,7 @@ An easy-to-use encryption system utilizing RSA and AES for javascript.
 
 ## [crypto](http://ats.oka.nu/titaniumcore/js/crypto/)
 
-[![GitHub watchers](https://img.shields.io/badge/Status-None-red.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/badge/Status-unknown-red.svg?style=flat-square)]()
 
 JavaScript Cryptography Toolkit: This library is an object oriented cryptography toolkit that implements several fundamental cryptographic algorithms including TWOFISH, SERPENT, RIJNDAEL, RSA with key-generation and SHA(SHA-1,224,256,384,512) for JavaScript. This library works in ActionScript as well. The unique feature of this library is asynchronous processing. A heavyweight process such as 4096bit RSA key generation will be done asynchronously so that this library does not cause problems such as freezing browsers, "slow-downing" warning dialogs, etc. Asynchronous RSA key generation and  based on jsbn.
 
@@ -141,7 +141,7 @@ OpenPGP Message Encryption in JavaScript by Herbert Hanewinkel.
 
 ## [pidCrypt](http://www.pidder.com/pidcrypt)
 
-[![GitHub watchers](https://img.shields.io/badge/Status-None-red.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/badge/Status-unknown-red.svg?style=flat-square)]()
 
 pidCrypt is a crypto library offering modular cryptographic functions in JavaScript. Supports: AES (CBC & CTR Mode), RSA, MD5, SHA-1, SHA-256, SHA-384, SHA-512, ASN.1, Base64, UTF-8. The AES-CBC mode is compatible to OpenSSL.
 
@@ -159,7 +159,7 @@ This is a copy of the [pidCrypt](#pidCrypt) with some modifications to make it c
 
 [![Last Update](https://img.shields.io/badge/Last%20Update-2013-orange.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/polycrypt/polycrypt.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/polycrypt/polycrypt.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/polycrypt/polycrypt.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/polycrypt/polycrypt.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/polycrypt/polycrypt.svg?style=flat-square)]()
 
-A pure JS implementation of the WebCrypto API. It is no longer under active development.
+A pure JS implementation of the WebCrypto API. IT IS NO LONGER UNDER ACTIVE DEVELOPMENT.
 
 
 
