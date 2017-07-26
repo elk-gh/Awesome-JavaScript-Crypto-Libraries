@@ -203,6 +203,14 @@ The Stanford Javascript Crypto Library on GitHub is a project by the Stanford Co
 
 
 
+## [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - [Official Site](https://tweetnacl.js.org)
+
+[![Last Update](https://img.shields.io/badge/Last%20Update-2017-brightgreen.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/dchest/tweetnacl-js.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/dchest/tweetnacl-js.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/dchest/tweetnacl-js.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/dchest/tweetnacl-js.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/dchest/tweetnacl-js.svg?style=flat-square)]()
+
+TweetNaCl.js is a port of [TweetNaCl](http://tweetnacl.cr.yp.to/) / [NaCl](http://nacl.cr.yp.to/) to JavaScript. It implements secret-key authenticated encryption, public-key authenticated encryption, hashing, and public-key signatures. High-level crypto library in only 7 KB (minified and gzipped)!
+
+
+
 ## [URSA](https://github.com/quartzjer/ursa)
 
 [![Last Update](https://img.shields.io/badge/Last%20Update-2012-red.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/quartzjer/ursa.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/quartzjer/ursa.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/quartzjer/ursa.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/quartzjer/ursa.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/quartzjer/ursa.svg?style=flat-square)]()
