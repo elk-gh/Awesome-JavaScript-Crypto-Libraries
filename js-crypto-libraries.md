@@ -7,7 +7,7 @@ JavaScript Crypto Libraries
 
 [![Last Update](https://img.shields.io/badge/Last%20Update-2016-green.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/vibornoff/asmcrypto.js.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/vibornoff/asmcrypto.js.svg?style=flat-square)]()
 
-JavaScript implementation of JSON Web Signatures, JSON Web Tokens, and JSON Web Certificates by Mozilla.
+JavaScript implementation of popular cryptographic utilities with performance in mind.
 
 
 
@@ -200,6 +200,14 @@ RSA encryption with javascript.
 [![Last Update](https://img.shields.io/badge/Last%20Update-2015-yellowgreen.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/badge/GitHub%20Repo-None-red.svg?style=flat-square)]()
 
 RSA.js is a suite of routines for performing RSA public-key computations in JavaScript.  The cryptographic functions herein are used for encoding and decoding strings to be sent over unsecure channels.
+
+
+
+## [simplecrypto for javascript](https://github.com/encryb/simplecrypto)
+
+[![Last Update](https://img.shields.io/badge/Last%20Update-2015-yellowgreen.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/encryb/simplecrypto.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/encryb/simplecrypto.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/encryb/simplecrypto.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/encryb/simplecrypto.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/encryb/simplecrypto.svg?style=flat-square)]()
+
+Simple Javascript cryptography library that wraps incompatible WebCrypto implementations, utilizes encryption algorithms that all WebCrypto enabled browsers support and provides a much simpler interface.
 
 
 
