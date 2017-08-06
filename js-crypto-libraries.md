@@ -51,6 +51,14 @@ The `crypto` module provides cryptographic functionality that includes a set of 
 
 
 
+## [crypto-js](https://github.com/brix/crypto-js)
+
+[![Last Update](https://img.shields.io/badge/Last%20Update-2017-brightgreen.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/brix/crypto-js.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/brix/crypto-js.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/brix/crypto-js.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/brix/crypto-js.svg?style=flat-square)]()
+
+JavaScript library of crypto standards based on the inactive **CryptoJS**.
+
+
+
 ## [CryptoJS](https://code.google.com/archive/p/crypto-js/)
 
 [![Last Update](https://img.shields.io/badge/Last%20Update-2013-orange.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/badge/GitHub%20Repo-None-red.svg?style=flat-square)]()
