@@ -3,6 +3,14 @@ JavaScript Crypto Libraries
 
 
 
+## [asmCrypto](https://github.com/vibornoff/asmcrypto.js/)
+
+[![Last Update](https://img.shields.io/badge/Last%20Update-2016-green.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/vibornoff/asmcrypto.js.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/vibornoff/asmcrypto.js.svg?style=flat-square)]()
+
+JavaScript implementation of JSON Web Signatures, JSON Web Tokens, and JSON Web Certificates by Mozilla.
+
+
+
 ## [BrowserID Crypto](https://github.com/mozilla/browserid-crypto)
 
 [![Last Update](https://img.shields.io/badge/Last%20Update-2016-green.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/mozilla/browserid-crypto.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/mozilla/browserid-crypto.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/mozilla/browserid-crypto.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/mozilla/browserid-crypto.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/mozilla/browserid-crypto.svg?style=flat-square)]()
