@@ -3,6 +3,14 @@ JavaScript Crypto Libraries
 
 
 
+## [asmCrypto](https://github.com/vibornoff/asmcrypto.js/)
+
+[![Last Update](https://img.shields.io/badge/Last%20Update-2016-green.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/vibornoff/asmcrypto.js.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/vibornoff/asmcrypto.js.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/vibornoff/asmcrypto.js.svg?style=flat-square)]()
+
+JavaScript implementation of popular cryptographic utilities with performance in mind.
+
+
+
 ## [BrowserID Crypto](https://github.com/mozilla/browserid-crypto)
 
 [![Last Update](https://img.shields.io/badge/Last%20Update-2016-green.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/mozilla/browserid-crypto.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/mozilla/browserid-crypto.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/mozilla/browserid-crypto.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/mozilla/browserid-crypto.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/mozilla/browserid-crypto.svg?style=flat-square)]()
@@ -40,6 +48,14 @@ JavaScript Cryptography Toolkit: This library is an object oriented cryptography
 [![Last Update](https://img.shields.io/badge/Last%20Update-2017-brightgreen.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/nodejs/node.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/nodejs/node.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/nodejs/node.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/nodejs/node.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/nodejs/node.svg?style=flat-square)]()
 
 The `crypto` module provides cryptographic functionality that includes a set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign and verify functions.
+
+
+
+## [crypto-js](https://github.com/brix/crypto-js)
+
+[![Last Update](https://img.shields.io/badge/Last%20Update-2017-brightgreen.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/brix/crypto-js.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/brix/crypto-js.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/brix/crypto-js.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/brix/crypto-js.svg?style=flat-square)]()
+
+JavaScript library of crypto standards based on the inactive **CryptoJS**.
 
 
 
@@ -192,6 +208,14 @@ RSA encryption with javascript.
 [![Last Update](https://img.shields.io/badge/Last%20Update-2015-yellowgreen.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/badge/GitHub%20Repo-None-red.svg?style=flat-square)]()
 
 RSA.js is a suite of routines for performing RSA public-key computations in JavaScript.  The cryptographic functions herein are used for encoding and decoding strings to be sent over unsecure channels.
+
+
+
+## [simplecrypto for javascript](https://github.com/encryb/simplecrypto)
+
+[![Last Update](https://img.shields.io/badge/Last%20Update-2015-yellowgreen.svg?style=flat-square)]() [![GitHub tag](https://img.shields.io/github/tag/encryb/simplecrypto.svg?style=flat-square)]() [![GitHub watchers](https://img.shields.io/github/watchers/encryb/simplecrypto.svg?style=flat-square)]()  [![GitHub stars](https://img.shields.io/github/stars/encryb/simplecrypto.svg?style=flat-square)]()  [![GitHub forks](https://img.shields.io/github/forks/encryb/simplecrypto.svg?style=flat-square)]()  [![GitHub issues](https://img.shields.io/github/issues/encryb/simplecrypto.svg?style=flat-square)]()
+
+Simple Javascript cryptography library that wraps incompatible WebCrypto implementations, utilizes encryption algorithms that all WebCrypto enabled browsers support and provides a much simpler interface.
 
 
 
