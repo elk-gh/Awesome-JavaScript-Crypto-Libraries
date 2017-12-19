@@ -1,10 +1,11 @@
-# JavaScript Crypto Libraries
+# JavaScript Crypto Libraries :closed_lock_with_key:
 
 
-## Original List
+## Original List :bulb:
 [JavaScript Crypto Libraries](https://gist.github.com/jo/8619441) by [Johannes Jörg Schmidt](https://github.com/jo)
 
-## The New ENHANCED List:
+
+## The New ENHANCED List :key:
 
 
 ## [asmCrypto](https://github.com/vibornoff/asmcrypto.js/)
