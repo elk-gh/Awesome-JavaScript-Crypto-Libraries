@@ -6,7 +6,7 @@ List of Awesome JavaScript Crypto Libraries based on
 
 
 
-## [asmCrypto](https://github.com/vibornoff/asmcrypto.js/)
+## [asmCrypto](https://github.com/vibornoff/asmcrypto.js)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/vibornoff/asmcrypto.js.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/vibornoff/asmcrypto.js.svg?style=flat-square)]()
@@ -47,7 +47,7 @@ to use modern technologies. CURRENTLY they move to
 [FORGE](#forge---official-site).
 
 
-## [Cryptico](https://github.com/wwwtyro/cryptico) - [Official Site](http://wwwtyro.github.io/cryptico/)
+## [Cryptico](https://github.com/wwwtyro/cryptico) - [Official Site](http://wwwtyro.github.io/cryptico)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/wwwtyro/cryptico.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/wwwtyro/cryptico.svg?style=flat-square)]()
@@ -59,7 +59,7 @@ to use modern technologies. CURRENTLY they move to
 An easy-to-use encryption system utilizing RSA and AES for javascript.
 
 
-## [crypto](http://ats.oka.nu/titaniumcore/js/crypto/)
+## [crypto](http://ats.oka.nu/titaniumcore/js/crypto)
 
 [![GitHub watchers](https://img.shields.io/badge/status-unknown-red.svg?style=flat-square)]()
 
@@ -101,7 +101,7 @@ JavaScript library of crypto standards based on the inactive
 **CryptoJS**.
 
 
-## [CryptoJS](https://code.google.com/archive/p/crypto-js/)
+## [CryptoJS](https://code.google.com/archive/p/crypto-js)
 
 [![Last Update](https://img.shields.io/badge/last%20update-2013-orange.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
@@ -111,7 +111,7 @@ algorithms implemented in JavaScript using best practices and patterns.
 They are fast, and they have a consistent and simple interface.
 
 
-## [Forge](https://github.com/digitalbazaar/forge) - [Official Site](https://digitalbazaar.com/forge/)
+## [Forge](https://github.com/digitalbazaar/forge) - [Official Site](https://digitalbazaar.com/forge)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/digitalbazaar/forge.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/digitalbazaar/forge.svg?style=flat-square)]()
@@ -177,7 +177,7 @@ Pure-Javascript High-level API to Emscripten-compiled libsodium
 routines.
 
 
-## [jsbn](http://www-cs-students.stanford.edu/~tjw/jsbn/)
+## [jsbn](http://www-cs-students.stanford.edu/~tjw/jsbn)
 
 [![Last Update](https://img.shields.io/badge/last%20update-2013-orange.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
@@ -188,7 +188,7 @@ enabling public-key crypto and other applications on desktop and mobile
 browsers.
 
 
-## [jscrypto](https://code.google.com/archive/p/jscryptolib/)
+## [jscrypto](https://code.google.com/archive/p/jscryptolib)
 
 [![Last Update](https://img.shields.io/badge/last%20update-2009-lightgrey.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
@@ -199,7 +199,7 @@ BASE64, RSA, ECC and IBE for JavaScript. This library works in
 ActionScript as well.
 
 
-## [JSEncrypt](https://github.com/travist/jsencrypt) - [Official Site](http://travistidwell.com/jsencrypt/)
+## [JSEncrypt](https://github.com/travist/jsencrypt) - [Official Site](http://travistidwell.com/jsencrypt)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/travist/jsencrypt.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/travist/jsencrypt.svg?style=flat-square)]()
@@ -214,7 +214,7 @@ but adds a wrapper to provide parsing of actual Private and Public
 key-pairs generated with OpenSSL.
 
 
-## [jsrsasign](https://github.com/kjur/jsrsasign) - [Official Site](http://kjur.github.io/jsrsasign/)
+## [jsrsasign](https://github.com/kjur/jsrsasign) - [Official Site](http://kjur.github.io/jsrsasign)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/kjur/jsrsasign.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/kjur/jsrsasign.svg?style=flat-square)]()
@@ -230,7 +230,7 @@ SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure
 JavaScript.
 
 
-## [jsSHA](https://github.com/Caligatio/jsSHA) - [Official Site](https://caligatio.github.io/jsSHA/)
+## [jsSHA](https://github.com/Caligatio/jsSHA) - [Official Site](https://caligatio.github.io/jsSHA)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Caligatio/jsSHA.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/Caligatio/jsSHA.svg?style=flat-square)]()
@@ -259,7 +259,7 @@ jsSHA is also 100% cross-browser compatible and works with Node.js.
 [![GitHub forks](https://img.shields.io/github/forks/jedisct1/libsodium.js.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/jedisct1/libsodium.js.svg?style=flat-square)]()
 
-The [sodium](https://download.libsodium.org/doc/) crypto library
+The [sodium](https://download.libsodium.org/doc) crypto library
 compiled to pure JavaScript using
 [Emscripten](https://github.com/kripken/emscripten), with automatically
 generated wrappers to make it easy to use in web applications.
@@ -280,7 +280,7 @@ implementations that are aimed at using native code, OpenPGP.js is meant
 to bypass this requirement.
 
 
-## [OpenPGP Message Encryption in Javascript](http://www.hanewin.net/encrypt/)
+## [OpenPGP Message Encryption in Javascript](http://www.hanewin.net/encrypt)
 
 [![Last Update](https://img.shields.io/badge/last%20update-2011-lightgrey.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
@@ -311,7 +311,7 @@ This is a copy of the [pidCrypt](#pidCrypt) with some modifications to
 make it compatible with node.js and browserify.
 
 
-## [PolyCrypt](https://github.com/polycrypt/polycrypt) - [Official Site](http://polycrypt.net/)
+## [PolyCrypt](https://github.com/polycrypt/polycrypt) - [Official Site](http://polycrypt.net)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/polycrypt/polycrypt.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/polycrypt/polycrypt.svg?style=flat-square)]()
@@ -336,7 +336,7 @@ ACTIVE DEVELOPMENT.
 RSA encryption with javascript.
 
 
-## [RSA in JavaScript v2](http://ohdave.com/rsa/)
+## [RSA in JavaScript v2](http://ohdave.com/rsa)
 
 [![Last Update](https://img.shields.io/badge/last%20update-2015-yellowgreen.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
@@ -360,7 +360,7 @@ implementations, utilizes encryption algorithms that all WebCrypto
 enabled browsers support and provides a much simpler interface.
 
 
-## [SJCL - Stanford Javascript Crypto Library](http://github.com/bitwiseshiftleft/sjcl) - [Official Site](http://bitwiseshiftleft.github.io/sjcl/)
+## [SJCL - Stanford Javascript Crypto Library](http://github.com/bitwiseshiftleft/sjcl) - [Official Site](http://bitwiseshiftleft.github.io/sjcl)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
@@ -383,8 +383,8 @@ easy-to-use, cross-browser library for cryptography in Javascript.
 [![GitHub forks](https://img.shields.io/github/forks/dchest/tweetnacl-js.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/dchest/tweetnacl-js.svg?style=flat-square)]()
 
-TweetNaCl.js is a port of [TweetNaCl](http://tweetnacl.cr.yp.to/) /
-[NaCl](http://nacl.cr.yp.to/) to JavaScript. It implements secret-key
+TweetNaCl.js is a port of [TweetNaCl](http://tweetnacl.cr.yp.to) /
+[NaCl](http://nacl.cr.yp.to) to JavaScript. It implements secret-key
 authenticated encryption, public-key authenticated encryption, hashing,
 and public-key signatures. High-level crypto library in only 7 KB
 (minified and gzipped)!
@@ -416,7 +416,7 @@ Key Infrastructure for GOST algorithms (Russian Cryptographic
 Standards).
 
 
-## [WebCryptoAPI](http://www.w3.org/TR/WebCryptoAPI/) - W3C Recommendation
+## [WebCryptoAPI](http://www.w3.org/TR/WebCryptoAPI) - W3C Recommendation
 
 [![Last Update](https://img.shields.io/badge/last%20update-2017-brightgreen.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
