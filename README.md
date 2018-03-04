@@ -8,11 +8,11 @@ List of Awesome JavaScript Crypto Libraries based on
 
 ## Categories
 
-* [The W3C Specification](#the-w3c-specification)
-* [The Big Ones](#the-big-ones)
-* [The Rest of The Pack](#the-rest-of-the-pack)
-* [No Longer Maintained](#no-longer-maintained)
-* [Unknown Status](#unknown-status)
+* [The W3C Specification (1)](#the-w3c-speicification)
+* [The Big Ones (6)](#the-big-ones)
+* [The Rest of The Pack (11)](#the-rest-of-the-pack)
+* [No Longer Maintained (7)](#no-longer-maintained)
+* [Unknown Status (7)](#unknown-status)
 
 
 
@@ -37,6 +37,94 @@ signing, and the confidentiality and integrity of communications.
 
 
 ## The Big Ones
+
+Frameworks with more than ~2KB GitHub Stars.
+
+
+## [Crypto Module](https://github.com/nodejs/node) by NodeJS - [Official Site](https://nodejs.org/api/crypto.html)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/nodejs/node.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/nodejs/node.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/nodejs/node.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/nodejs/node.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/nodejs/node.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/nodejs/node.svg?style=flat-square)]()
+
+The `crypto` module provides cryptographic functionality that includes a
+set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign and
+verify functions.
+
+
+## [SJCL - Stanford Javascript Crypto Library](http://github.com/bitwiseshiftleft/sjcl) - [Official Site](http://bitwiseshiftleft.github.io/sjcl)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
+
+The Stanford Javascript Crypto Library on GitHub is a project by the
+Stanford Computer Security Lab to build a secure, powerful, fast, small,
+easy-to-use, cross-browser library for cryptography in Javascript.
+
+
+## [crypto-js](https://github.com/brix/crypto-js)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/brix/crypto-js.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/brix/crypto-js.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/brix/crypto-js.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/brix/crypto-js.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/brix/crypto-js.svg?style=flat-square)]()
+
+JavaScript library of crypto standards based on the inactive
+**CryptoJS**.
+
+
+## [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - [Official Site](https://openpgpjs.org)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/openpgpjs/openpgpjs.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/openpgpjs/openpgpjs.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/openpgpjs/openpgpjs.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/openpgpjs/openpgpjs.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/openpgpjs/openpgpjs.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/openpgpjs/openpgpjs.svg?style=flat-square)]()
+
+This project aims to provide an Open Source OpenPGP library in
+JavaScript so it can be used on virtually every device. Instead of other
+implementations that are aimed at using native code, OpenPGP.js is meant
+to bypass this requirement.
+
+
+## [JSEncrypt](https://github.com/travist/jsencrypt) - [Official Site](http://travistidwell.com/jsencrypt)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/travist/jsencrypt.svg?style=flat-square)]()
+
+A simple wrapper around _Tom Wu library_ that basically uses the library
+[practically](https://github.com/travist/jsencrypt/pull/6) untouched,
+but adds a wrapper to provide parsing of actual Private and Public
+key-pairs generated with OpenSSL.
+
+
+## [Forge](https://github.com/digitalbazaar/forge) - [Official Site](https://digitalbazaar.com/forge)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/digitalbazaar/forge.svg?style=flat-square)]()
+
+The Forge software is a fully native implementation of the
+[TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security) protocol in
+JavaScript, a set of cryptography utilities, and a set of tools for
+developing Web Apps that utilize many network resources.
 
 
 
@@ -73,48 +161,6 @@ JavaScript implementation of JSON Web Signatures, JSON Web Tokens, and
 JSON Web Certificates by Mozilla.
 
 
-## [Crypto Module](https://github.com/nodejs/node) by NodeJS - [Official Site](https://nodejs.org/api/crypto.html)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/nodejs/node.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/nodejs/node.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nodejs/node.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/nodejs/node.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/nodejs/node.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/nodejs/node.svg?style=flat-square)]()
-
-The `crypto` module provides cryptographic functionality that includes a
-set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign and
-verify functions.
-
-
-## [crypto-js](https://github.com/brix/crypto-js)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/brix/crypto-js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/brix/crypto-js.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/brix/crypto-js.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/brix/crypto-js.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/brix/crypto-js.svg?style=flat-square)]()
-
-JavaScript library of crypto standards based on the inactive
-**CryptoJS**.
-
-
-## [Forge](https://github.com/digitalbazaar/forge) - [Official Site](https://digitalbazaar.com/forge)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/digitalbazaar/forge.svg?style=flat-square)]()
-
-The Forge software is a fully native implementation of the
-[TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security) protocol in
-JavaScript, a set of cryptography utilities, and a set of tools for
-developing Web Apps that utilize many network resources.
-
-
 ## [JavaScript Crypto Library](https://github.com/clipperz/javascript-crypto-library) by Clipperz
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/clipperz/javascript-crypto-library.svg?style=flat-square)]()
@@ -140,21 +186,6 @@ maximum execution speed while preserving modularity and reusability.
 
 Pure-Javascript High-level API to Emscripten-compiled libsodium
 routines.
-
-
-## [JSEncrypt](https://github.com/travist/jsencrypt) - [Official Site](http://travistidwell.com/jsencrypt)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/travist/jsencrypt.svg?style=flat-square)]()
-
-A simple wrapper around _Tom Wu library_ that basically uses the library
-[practically](https://github.com/travist/jsencrypt/pull/6) untouched,
-but adds a wrapper to provide parsing of actual Private and Public
-key-pairs generated with OpenSSL.
 
 
 ## [jsrsasign](https://github.com/kjur/jsrsasign) - [Official Site](http://kjur.github.io/jsrsasign)
@@ -208,21 +239,6 @@ compiled to pure JavaScript using
 generated wrappers to make it easy to use in web applications.
 
 
-## [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - [Official Site](https://openpgpjs.org)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/openpgpjs/openpgpjs.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/openpgpjs/openpgpjs.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/openpgpjs/openpgpjs.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/openpgpjs/openpgpjs.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/openpgpjs/openpgpjs.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/openpgpjs/openpgpjs.svg?style=flat-square)]()
-
-This project aims to provide an Open Source OpenPGP library in
-JavaScript so it can be used on virtually every device. Instead of other
-implementations that are aimed at using native code, OpenPGP.js is meant
-to bypass this requirement.
-
-
 ## [simplecrypto for javascript](https://github.com/encryb/simplecrypto)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/encryb/simplecrypto.svg?style=flat-square)]()
@@ -235,20 +251,6 @@ to bypass this requirement.
 Simple Javascript cryptography library that wraps incompatible WebCrypto
 implementations, utilizes encryption algorithms that all WebCrypto
 enabled browsers support and provides a much simpler interface.
-
-
-## [SJCL - Stanford Javascript Crypto Library](http://github.com/bitwiseshiftleft/sjcl) - [Official Site](http://bitwiseshiftleft.github.io/sjcl)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
-
-The Stanford Javascript Crypto Library on GitHub is a project by the
-Stanford Computer Security Lab to build a secure, powerful, fast, small,
-easy-to-use, cross-browser library for cryptography in Javascript.
 
 
 ## [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - [Official Site](https://tweetnacl.js.org)
