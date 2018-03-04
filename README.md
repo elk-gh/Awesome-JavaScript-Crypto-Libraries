@@ -1,11 +1,9 @@
-# JavaScript Crypto Libraries :closed_lock_with_key:
+# Gabo's Awesome JavaScript Crypto Libraries
 
+List of Awesome JavaScript Crypto Libraries based on 
+[JavaScript Crypto Libraries](https://gist.github.com/jo/8619441) by
+[Johannes Jörg Schmidt](https://github.com/jo)
 
-## Original List :bulb:
-[JavaScript Crypto Libraries](https://gist.github.com/jo/8619441) by [Johannes Jörg Schmidt](https://github.com/jo)
-
-
-## The New ENHANCED List :key:
 
 
 ## [asmCrypto](https://github.com/vibornoff/asmcrypto.js/)
@@ -430,4 +428,3 @@ Additionally, it describes an API for applications to generate and/or
 manage the keying material necessary to perform these operations. Uses
 for this API range from user or service authentication, document or code
 signing, and the confidentiality and integrity of communications.
-
