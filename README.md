@@ -6,6 +6,47 @@ List of Awesome JavaScript Crypto Libraries based on
 
 
 
+## Categories
+
+* [The W3C Specification](#the-w3c-specification)
+* [The Big Ones](#the-big-ones)
+* [The Rest of The Pack](#the-rest-of-the-pack)
+* [No Longer Maintained](#no-longer-maintained)
+* [Unknown Status](#unknown-status)
+
+
+
+## The W3C Specification
+
+## [WebCryptoAPI](http://www.w3.org/TR/WebCryptoAPI) - W3C Recommendation
+
+[![Last Update](https://img.shields.io/badge/last%20update-2017-brightgreen.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
+
+This specification describes a JavaScript API for performing basic
+cryptographic operations in web applications, such as hashing, signature
+generation and verification, and encryption and decryption.
+Additionally, it describes an API for applications to generate and/or
+manage the keying material necessary to perform these operations. Uses
+for this API range from user or service authentication, document or code
+signing, and the confidentiality and integrity of communications.
+
+
+[_Return to Categories_](#categories)
+
+
+
+## The Big Ones
+
+
+
+[_Return to Categories_](#categories)
+
+
+
+## The Rest of The Pack
+
+
 ## [asmCrypto](https://github.com/vibornoff/asmcrypto.js)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/vibornoff/asmcrypto.js.svg?style=flat-square)]()
@@ -30,48 +71,6 @@ performance in mind.
 
 JavaScript implementation of JSON Web Signatures, JSON Web Tokens, and
 JSON Web Certificates by Mozilla.
-
-
-## [Cifre](https://github.com/hookflash/obsolete.cifre)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/hookflash/obsolete.cifre.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/hookflash/obsolete.cifre.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/hookflash/obsolete.cifre.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/hookflash/obsolete.cifre.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/hookflash/obsolete.cifre.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/hookflash/obsolete.cifre.svg?style=flat-square)]()
-
-Cifre is a fast crypto toolkit for modern client-side JavaScript. This
-is done by taking the best crypto code for js on the net and updating it
-to use modern technologies. CURRENTLY they move to
-[FORGE](#forge---official-site).
-
-
-## [Cryptico](https://github.com/wwwtyro/cryptico) - [Official Site](http://wwwtyro.github.io/cryptico)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/wwwtyro/cryptico.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/wwwtyro/cryptico.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/wwwtyro/cryptico.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/wwwtyro/cryptico.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/wwwtyro/cryptico.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/wwwtyro/cryptico.svg?style=flat-square)]()
-
-An easy-to-use encryption system utilizing RSA and AES for javascript.
-
-
-## [crypto](http://ats.oka.nu/titaniumcore/js/crypto)
-
-[![GitHub watchers](https://img.shields.io/badge/status-unknown-red.svg?style=flat-square)]()
-
-JavaScript Cryptography Toolkit: This library is an object oriented
-cryptography toolkit that implements several fundamental cryptographic
-algorithms including TWOFISH, SERPENT, RIJNDAEL, RSA with key-generation
-and SHA(SHA-1,224,256,384,512) for JavaScript. This library works in
-ActionScript as well. The unique feature of this library is asynchronous
-processing. A heavyweight process such as 4096bit RSA key generation
-will be done asynchronously so that this library does not cause problems
-such as freezing browsers, "slow-downing" warning dialogs, etc.
-Asynchronous RSA key generation and based on jsbn.
 
 
 ## [Crypto Module](https://github.com/nodejs/node) by NodeJS - [Official Site](https://nodejs.org/api/crypto.html)
@@ -99,16 +98,6 @@ verify functions.
 
 JavaScript library of crypto standards based on the inactive
 **CryptoJS**.
-
-
-## [CryptoJS](https://code.google.com/archive/p/crypto-js)
-
-[![Last Update](https://img.shields.io/badge/last%20update-2013-orange.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
-
-CryptoJS is a growing collection of standard and secure cryptographic
-algorithms implemented in JavaScript using best practices and patterns.
-They are fast, and they have a consistent and simple interface.
 
 
 ## [Forge](https://github.com/digitalbazaar/forge) - [Official Site](https://digitalbazaar.com/forge)
@@ -140,30 +129,6 @@ and efficient set of cryptographic functions. The library aims to obtain
 maximum execution speed while preserving modularity and reusability.
 
 
-## [javascript-rsa](https://github.com/ziyan/javascript-rsa)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/ziyan/javascript-rsa.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/ziyan/javascript-rsa.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ziyan/javascript-rsa.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/ziyan/javascript-rsa.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/ziyan/javascript-rsa.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/ziyan/javascript-rsa.svg?style=flat-square)]()
-
-RSA encryption with javascript.
-
-
-## [jCryption](https://github.com/HazAT/jCryption) - [Official Site](http://www.jcryption.org)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/HazAT/jCryption.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/HazAT/jCryption.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/HazAT/jCryption.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/HazAT/jCryption.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/HazAT/jCryption.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/HazAT/jCryption.svg?style=flat-square)]()
-
-Javascript HTML-Form encryption plugin. DISCONTINUED.
-
-
 ## [js-nacl](https://github.com/tonyg/js-nacl)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/tonyg/js-nacl.svg?style=flat-square)]()
@@ -175,28 +140,6 @@ Javascript HTML-Form encryption plugin. DISCONTINUED.
 
 Pure-Javascript High-level API to Emscripten-compiled libsodium
 routines.
-
-
-## [jsbn](http://www-cs-students.stanford.edu/~tjw/jsbn)
-
-[![Last Update](https://img.shields.io/badge/last%20update-2013-orange.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
-
-The Original **Tom Wu** RSA and ECC library in JavaScript. A fast,
-portable implementation of large-number math in pure JavaScript,
-enabling public-key crypto and other applications on desktop and mobile
-browsers.
-
-
-## [jscrypto](https://code.google.com/archive/p/jscryptolib)
-
-[![Last Update](https://img.shields.io/badge/last%20update-2009-lightgrey.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
-
-This library is an object oriented cryptography library that implements
-several fundamental cryptographic algorithms including AES, SHA-1, HMAC,
-BASE64, RSA, ECC and IBE for JavaScript. This library works in
-ActionScript as well.
 
 
 ## [JSEncrypt](https://github.com/travist/jsencrypt) - [Official Site](http://travistidwell.com/jsencrypt)
@@ -280,72 +223,6 @@ implementations that are aimed at using native code, OpenPGP.js is meant
 to bypass this requirement.
 
 
-## [OpenPGP Message Encryption in Javascript](http://www.hanewin.net/encrypt)
-
-[![Last Update](https://img.shields.io/badge/last%20update-2011-lightgrey.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
-
-OpenPGP Message Encryption in JavaScript by Herbert Hanewinkel.
-
-
-## [pidCrypt](http://www.pidder.com/pidcrypt)
-
-[![GitHub watchers](https://img.shields.io/badge/status-unknown-red.svg?style=flat-square)]()
-
-pidCrypt is a crypto library offering modular cryptographic functions in
-JavaScript. Supports: AES (CBC & CTR Mode), RSA, MD5, SHA-1, SHA-256,
-SHA-384, SHA-512, ASN.1, Base64, UTF-8. The AES-CBC mode is compatible
-to OpenSSL.
-
-
-## [pidCrypt for node.js/browserify](https://github.com/nikvdp/pidcrypt)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/nikvdp/pidcrypt.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/nikvdp/pidcrypt.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nikvdp/pidcrypt.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/nikvdp/pidcrypt.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/nikvdp/pidcrypt.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/nikvdp/pidcrypt.svg?style=flat-square)]()
-
-This is a copy of the [pidCrypt](#pidCrypt) with some modifications to
-make it compatible with node.js and browserify.
-
-
-## [PolyCrypt](https://github.com/polycrypt/polycrypt) - [Official Site](http://polycrypt.net)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/polycrypt/polycrypt.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/polycrypt/polycrypt.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/polycrypt/polycrypt.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/polycrypt/polycrypt.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/polycrypt/polycrypt.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/polycrypt/polycrypt.svg?style=flat-square)]()
-
-A pure JS implementation of the WebCrypto API. IT IS NO LONGER UNDER
-ACTIVE DEVELOPMENT.
-
-
-## [protocrypt](https://github.com/starpeak/protocrypt)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/starpeak/protocrypt.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/starpeak/protocrypt.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/starpeak/protocrypt.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/starpeak/protocrypt.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/starpeak/protocrypt.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/starpeak/protocrypt.svg?style=flat-square)]()
-
-RSA encryption with javascript.
-
-
-## [RSA in JavaScript v2](http://ohdave.com/rsa)
-
-[![Last Update](https://img.shields.io/badge/last%20update-2015-yellowgreen.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
-
-RSA.js is a suite of routines for performing RSA public-key computations
-in JavaScript. The cryptographic functions herein are used for encoding
-and decoding strings to be sent over unsecure channels.
-
-
 ## [simplecrypto for javascript](https://github.com/encryb/simplecrypto)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/encryb/simplecrypto.svg?style=flat-square)]()
@@ -416,15 +293,188 @@ Key Infrastructure for GOST algorithms (Russian Cryptographic
 Standards).
 
 
-## [WebCryptoAPI](http://www.w3.org/TR/WebCryptoAPI) - W3C Recommendation
 
-[![Last Update](https://img.shields.io/badge/last%20update-2017-brightgreen.svg?style=flat-square)]()
+[_Return to Categories_](#categories)
+
+
+
+## No Longer Maintained
+
+Frameworks with more than ~3 years without updates or officially no
+longer maintained.
+
+
+## [Cifre](https://github.com/hookflash/obsolete.cifre)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/hookflash/obsolete.cifre.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/hookflash/obsolete.cifre.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/hookflash/obsolete.cifre.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/hookflash/obsolete.cifre.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/hookflash/obsolete.cifre.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/hookflash/obsolete.cifre.svg?style=flat-square)]()
+
+Cifre is a fast crypto toolkit for modern client-side JavaScript. This
+is done by taking the best crypto code for js on the net and updating it
+to use modern technologies. CURRENTLY they move to
+[FORGE](#forge---official-site).
+
+
+## [Cryptico](https://github.com/wwwtyro/cryptico) - [Official Site](http://wwwtyro.github.io/cryptico)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/wwwtyro/cryptico.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/wwwtyro/cryptico.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/wwwtyro/cryptico.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/wwwtyro/cryptico.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/wwwtyro/cryptico.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/wwwtyro/cryptico.svg?style=flat-square)]()
+
+An easy-to-use encryption system utilizing RSA and AES for javascript.
+
+
+## [javascript-rsa](https://github.com/ziyan/javascript-rsa)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ziyan/javascript-rsa.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/ziyan/javascript-rsa.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ziyan/javascript-rsa.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/ziyan/javascript-rsa.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/ziyan/javascript-rsa.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/ziyan/javascript-rsa.svg?style=flat-square)]()
+
+RSA encryption with javascript.
+
+
+## [jCryption](https://github.com/HazAT/jCryption) - [Official Site](http://www.jcryption.org)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/HazAT/jCryption.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/HazAT/jCryption.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/HazAT/jCryption.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/HazAT/jCryption.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/HazAT/jCryption.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/HazAT/jCryption.svg?style=flat-square)]()
+
+Javascript HTML-Form encryption plugin. DISCONTINUED.
+
+
+## [pidCrypt for node.js/browserify](https://github.com/nikvdp/pidcrypt)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/nikvdp/pidcrypt.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/nikvdp/pidcrypt.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/nikvdp/pidcrypt.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/nikvdp/pidcrypt.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/nikvdp/pidcrypt.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/nikvdp/pidcrypt.svg?style=flat-square)]()
+
+This is a copy of the [pidCrypt](#pidCrypt) with some modifications to
+make it compatible with node.js and browserify.
+
+
+## [PolyCrypt](https://github.com/polycrypt/polycrypt) - [Official Site](http://polycrypt.net)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/polycrypt/polycrypt.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/polycrypt/polycrypt.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/polycrypt/polycrypt.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/polycrypt/polycrypt.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/polycrypt/polycrypt.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/polycrypt/polycrypt.svg?style=flat-square)]()
+
+A pure JS implementation of the WebCrypto API.
+
+
+## [protocrypt](https://github.com/starpeak/protocrypt)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/starpeak/protocrypt.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/starpeak/protocrypt.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/starpeak/protocrypt.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/starpeak/protocrypt.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/starpeak/protocrypt.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/starpeak/protocrypt.svg?style=flat-square)]()
+
+RSA encryption with javascript.
+
+
+
+[_Return to Categories_](#categories)
+
+
+
+## Unknown Status
+
+
+## [crypto](http://ats.oka.nu/titaniumcore/js/crypto)
+
+[![GitHub watchers](https://img.shields.io/badge/status-unknown-red.svg?style=flat-square)]()
+
+JavaScript Cryptography Toolkit: This library is an object oriented
+cryptography toolkit that implements several fundamental cryptographic
+algorithms including TWOFISH, SERPENT, RIJNDAEL, RSA with key-generation
+and SHA(SHA-1,224,256,384,512) for JavaScript. This library works in
+ActionScript as well. The unique feature of this library is asynchronous
+processing. A heavyweight process such as 4096bit RSA key generation
+will be done asynchronously so that this library does not cause problems
+such as freezing browsers, "slow-downing" warning dialogs, etc.
+Asynchronous RSA key generation and based on jsbn.
+
+
+## [CryptoJS](https://code.google.com/archive/p/crypto-js)
+
+[![Last Update](https://img.shields.io/badge/last%20update-2013-orange.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
 
-This specification describes a JavaScript API for performing basic
-cryptographic operations in web applications, such as hashing, signature
-generation and verification, and encryption and decryption.
-Additionally, it describes an API for applications to generate and/or
-manage the keying material necessary to perform these operations. Uses
-for this API range from user or service authentication, document or code
-signing, and the confidentiality and integrity of communications.
+CryptoJS is a growing collection of standard and secure cryptographic
+algorithms implemented in JavaScript using best practices and patterns.
+They are fast, and they have a consistent and simple interface.
+
+
+## [jsbn](http://www-cs-students.stanford.edu/~tjw/jsbn)
+
+[![Last Update](https://img.shields.io/badge/last%20update-2013-orange.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
+
+The Original **Tom Wu** RSA and ECC library in JavaScript. A fast,
+portable implementation of large-number math in pure JavaScript,
+enabling public-key crypto and other applications on desktop and mobile
+browsers.
+
+
+## [jscrypto](https://code.google.com/archive/p/jscryptolib)
+
+[![Last Update](https://img.shields.io/badge/last%20update-2009-lightgrey.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
+
+This library is an object oriented cryptography library that implements
+several fundamental cryptographic algorithms including AES, SHA-1, HMAC,
+BASE64, RSA, ECC and IBE for JavaScript. This library works in
+ActionScript as well.
+
+
+## [OpenPGP Message Encryption in Javascript](http://www.hanewin.net/encrypt)
+
+[![Last Update](https://img.shields.io/badge/last%20update-2011-lightgrey.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
+
+OpenPGP Message Encryption in JavaScript by Herbert Hanewinkel.
+
+
+## [pidCrypt](http://www.pidder.com/pidcrypt)
+
+[![GitHub watchers](https://img.shields.io/badge/status-unknown-red.svg?style=flat-square)]()
+
+pidCrypt is a crypto library offering modular cryptographic functions in
+JavaScript. Supports: AES (CBC & CTR Mode), RSA, MD5, SHA-1, SHA-256,
+SHA-384, SHA-512, ASN.1, Base64, UTF-8. The AES-CBC mode is compatible
+to OpenSSL.
+
+
+## [RSA in JavaScript v2](http://ohdave.com/rsa)
+
+[![Last Update](https://img.shields.io/badge/last%20update-2015-yellowgreen.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)]()
+
+RSA.js is a suite of routines for performing RSA public-key computations
+in JavaScript. The cryptographic functions herein are used for encoding
+and decoding strings to be sent over unsecure channels.
+
+
+
+[_Return to Categories_](#categories)
+
