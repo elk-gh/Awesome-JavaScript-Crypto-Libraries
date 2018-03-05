@@ -11,7 +11,7 @@ List of Awesome JavaScript Crypto Libraries based on
 * [The W3C Specification (1)](#the-w3c-speicification)
 * [The Big Ones (6)](#the-big-ones)
 * [The Rest of The Pack (11)](#the-rest-of-the-pack)
-* [No Longer Maintained (7)](#no-longer-maintained)
+* [No Longer Maintained (8)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
 
 
@@ -304,6 +304,19 @@ Standards).
 
 Frameworks with more than ~3 years without updates or officially no
 longer maintained.
+
+
+## [bcrypt for NodeJS](https://github.com/shaneGirish/bcrypt-nodejs)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/shaneGirish/bcrypt-nodejs.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/shaneGirish/bcrypt-nodejs.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/shaneGirish/bcrypt-nodejs.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/shaneGirish/bcrypt-nodejs.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/shaneGirish/bcrypt-nodejs.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/shaneGirish/bcrypt-nodejs.svg?style=flat-square)]()
+
+Native implementation of bcrypt for NodeJS. This project is not actively
+maintained.
 
 
 ## [Cifre](https://github.com/hookflash/obsolete.cifre)
