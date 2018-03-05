@@ -10,7 +10,7 @@ List of Awesome JavaScript Crypto Libraries based on
 
 * [The W3C Specification (1)](#the-w3c-speicification)
 * [The Big Ones (4)](#the-big-ones)
-* [The Rest of The Pack (14)](#the-rest-of-the-pack)
+* [The Rest of The Pack (15)](#the-rest-of-the-pack)
 * [No Longer Maintained (8)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
 
@@ -69,7 +69,7 @@ Stanford Computer Security Lab to build a secure, powerful, fast, small,
 easy-to-use, cross-browser library for cryptography in Javascript.
 
 
-## [crypto-js](https://github.com/brix/crypto-js)
+## [crypto-js](https://github.com/brix/crypto-js) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/brix/crypto-js.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/brix/crypto-js.svg?style=flat-square)]()
@@ -105,7 +105,7 @@ to bypass this requirement.
 ## The Rest of The Pack
 
 
-## [asmCrypto](https://github.com/asmcrypto/asmcrypto.js)
+## [asmCrypto](https://github.com/asmcrypto/asmcrypto.js) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
@@ -118,7 +118,7 @@ JavaScript implementation of popular cryptographic utilities with
 performance in mind.
 
 
-## [bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
+## [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/dcodeIO/bcrypt.js.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/dcodeIO/bcrypt.js.svg?style=flat-square)]()
@@ -131,7 +131,7 @@ Optimized bcrypt in JavaScript with zero dependencies. Compatible to the
 C++ [bcrypt](https://npmjs.org/package/bcrypt) binding on node.js.
 
 
-## [BrowserID Crypto](https://github.com/mozilla/browserid-crypto)
+## [BrowserID Crypto](https://github.com/mozilla/browserid-crypto) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/browserid-crypto.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/mozilla/browserid-crypto.svg?style=flat-square)]()
@@ -159,7 +159,22 @@ JavaScript, a set of cryptography utilities, and a set of tools for
 developing Web Apps that utilize many network resources.
 
 
-## [JavaScript Crypto Library](https://github.com/clipperz/javascript-crypto-library) by Clipperz
+## [Google Closure Library](https://github.com/google/closure-library) - [Official Site Crypt Class](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-library.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/google/closure-library.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/google/closure-library.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/google/closure-library.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/google/closure-library.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/google/closure-library.svg?style=flat-square)]()
+
+Google's common JavaScript library. Closure Library is a powerful,
+low-level JavaScript library designed for building complex and scalable
+web applications. It is used by many Google web applications, such as
+Google Search, Gmail, Google Docs, Google+, Google Maps, and others.
+
+
+## [JavaScript Crypto Library](https://github.com/clipperz/javascript-crypto-library) by Clipperz - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/clipperz/javascript-crypto-library.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/clipperz/javascript-crypto-library.svg?style=flat-square)]()
@@ -173,7 +188,7 @@ and efficient set of cryptographic functions. The library aims to obtain
 maximum execution speed while preserving modularity and reusability.
 
 
-## [js-nacl](https://github.com/tonyg/js-nacl)
+## [js-nacl](https://github.com/tonyg/js-nacl) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/tonyg/js-nacl.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/tonyg/js-nacl.svg?style=flat-square)]()
@@ -282,7 +297,7 @@ and public-key signatures. High-level crypto library in only 7 KB
 (minified and gzipped)!
 
 
-## [URSA](https://github.com/quartzjer/ursa)
+## [URSA](https://github.com/quartzjer/ursa) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/quartzjer/ursa.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/quartzjer/ursa.svg?style=flat-square)]()
@@ -319,7 +334,7 @@ Frameworks with more than ~3 years without updates or officially no
 longer maintained.
 
 
-## [bcrypt for NodeJS](https://github.com/shaneGirish/bcrypt-nodejs)
+## [bcrypt for NodeJS](https://github.com/shaneGirish/bcrypt-nodejs) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/shaneGirish/bcrypt-nodejs.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/shaneGirish/bcrypt-nodejs.svg?style=flat-square)]()
@@ -332,7 +347,7 @@ Native implementation of bcrypt for NodeJS. This project is not actively
 maintained.
 
 
-## [Cifre](https://github.com/hookflash/obsolete.cifre)
+## [Cifre](https://github.com/hookflash/obsolete.cifre) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/hookflash/obsolete.cifre.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/hookflash/obsolete.cifre.svg?style=flat-square)]()
@@ -359,7 +374,7 @@ to use modern technologies. CURRENTLY they move to
 An easy-to-use encryption system utilizing RSA and AES for javascript.
 
 
-## [javascript-rsa](https://github.com/ziyan/javascript-rsa)
+## [javascript-rsa](https://github.com/ziyan/javascript-rsa) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ziyan/javascript-rsa.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/ziyan/javascript-rsa.svg?style=flat-square)]()
@@ -383,7 +398,7 @@ RSA encryption with javascript.
 Javascript HTML-Form encryption plugin. DISCONTINUED.
 
 
-## [pidCrypt for node.js/browserify](https://github.com/nikvdp/pidcrypt)
+## [pidCrypt for node.js/browserify](https://github.com/nikvdp/pidcrypt) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nikvdp/pidcrypt.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/nikvdp/pidcrypt.svg?style=flat-square)]()
@@ -408,7 +423,7 @@ make it compatible with node.js and browserify.
 A pure JS implementation of the WebCrypto API.
 
 
-## [protocrypt](https://github.com/starpeak/protocrypt)
+## [protocrypt](https://github.com/starpeak/protocrypt) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/starpeak/protocrypt.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/starpeak/protocrypt.svg?style=flat-square)]()
