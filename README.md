@@ -9,8 +9,8 @@ List of Awesome JavaScript Crypto Libraries based on
 ## Categories
 
 * [The W3C Specification (1)](#the-w3c-speicification)
-* [The Big Ones (6)](#the-big-ones)
-* [The Rest of The Pack (12)](#the-rest-of-the-pack)
+* [The Big Ones (4)](#the-big-ones)
+* [The Rest of The Pack (14)](#the-rest-of-the-pack)
 * [No Longer Maintained (8)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
 
@@ -38,10 +38,10 @@ signing, and the confidentiality and integrity of communications.
 
 ## The Big Ones
 
-Frameworks with more than ~2KB GitHub Stars.
+Frameworks with more than ~3KB GitHub Stars.
 
 
-## [Crypto Module](https://github.com/nodejs/node) by NodeJS - [Official Site](https://nodejs.org/api/crypto.html)
+## [Crypto Module](https://github.com/nodejs/node) by NodeJS - [Official Site Crypto Module](https://nodejs.org/api/crypto.html)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nodejs/node.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/nodejs/node.svg?style=flat-square)]()
@@ -97,36 +97,6 @@ implementations that are aimed at using native code, OpenPGP.js is meant
 to bypass this requirement.
 
 
-## [JSEncrypt](https://github.com/travist/jsencrypt) - [Official Site](http://travistidwell.com/jsencrypt)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/travist/jsencrypt.svg?style=flat-square)]()
-
-A simple wrapper around _Tom Wu library_ that basically uses the library
-[practically](https://github.com/travist/jsencrypt/pull/6) untouched,
-but adds a wrapper to provide parsing of actual Private and Public
-key-pairs generated with OpenSSL.
-
-
-## [Forge](https://github.com/digitalbazaar/forge) - [Official Site](https://digitalbazaar.com/forge)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/digitalbazaar/forge.svg?style=flat-square)]()
-
-The Forge software is a fully native implementation of the
-[TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security) protocol in
-JavaScript, a set of cryptography utilities, and a set of tools for
-developing Web Apps that utilize many network resources.
-
-
 
 [_Return to Categories_](#categories)
 
@@ -174,6 +144,21 @@ JavaScript implementation of JSON Web Signatures, JSON Web Tokens, and
 JSON Web Certificates by Mozilla.
 
 
+## [Forge](https://github.com/digitalbazaar/forge) - [Official Site](https://digitalbazaar.com/forge)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/digitalbazaar/forge.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/digitalbazaar/forge.svg?style=flat-square)]()
+
+The Forge software is a fully native implementation of the
+[TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security) protocol in
+JavaScript, a set of cryptography utilities, and a set of tools for
+developing Web Apps that utilize many network resources.
+
+
 ## [JavaScript Crypto Library](https://github.com/clipperz/javascript-crypto-library) by Clipperz
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/clipperz/javascript-crypto-library.svg?style=flat-square)]()
@@ -199,6 +184,21 @@ maximum execution speed while preserving modularity and reusability.
 
 Pure-Javascript High-level API to Emscripten-compiled libsodium
 routines.
+
+
+## [JSEncrypt](https://github.com/travist/jsencrypt) - [Official Site](http://travistidwell.com/jsencrypt)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/travist/jsencrypt.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/travist/jsencrypt.svg?style=flat-square)]()
+
+A simple wrapper around _Tom Wu library_ that basically uses the library
+[practically](https://github.com/travist/jsencrypt/pull/6) untouched,
+but adds a wrapper to provide parsing of actual Private and Public
+key-pairs generated with OpenSSL.
 
 
 ## [jsrsasign](https://github.com/kjur/jsrsasign) - [Official Site](http://kjur.github.io/jsrsasign)
