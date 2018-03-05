@@ -10,7 +10,7 @@ List of Awesome JavaScript Crypto Libraries based on
 
 * [The W3C Specification (1)](#the-w3c-speicification)
 * [The Big Ones (6)](#the-big-ones)
-* [The Rest of The Pack (11)](#the-rest-of-the-pack)
+* [The Rest of The Pack (12)](#the-rest-of-the-pack)
 * [No Longer Maintained (8)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
 
@@ -146,6 +146,19 @@ developing Web Apps that utilize many network resources.
 
 JavaScript implementation of popular cryptographic utilities with
 performance in mind.
+
+
+## [bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/dcodeIO/bcrypt.js.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/dcodeIO/bcrypt.js.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dcodeIO/bcrypt.js.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/dcodeIO/bcrypt.js.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/dcodeIO/bcrypt.js.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/dcodeIO/bcrypt.js.svg?style=flat-square)]()
+
+Optimized bcrypt in JavaScript with zero dependencies. Compatible to the
+C++ [bcrypt](https://npmjs.org/package/bcrypt) binding on node.js.
 
 
 ## [BrowserID Crypto](https://github.com/mozilla/browserid-crypto)
