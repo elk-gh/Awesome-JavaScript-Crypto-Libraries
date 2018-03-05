@@ -135,14 +135,14 @@ developing Web Apps that utilize many network resources.
 ## The Rest of The Pack
 
 
-## [asmCrypto](https://github.com/vibornoff/asmcrypto.js)
+## [asmCrypto](https://github.com/asmcrypto/asmcrypto.js)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/vibornoff/asmcrypto.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/vibornoff/asmcrypto.js.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/vibornoff/asmcrypto.js.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/vibornoff/asmcrypto.js.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/vibornoff/asmcrypto.js.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/vibornoff/asmcrypto.js.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
 
 JavaScript implementation of popular cryptographic utilities with
 performance in mind.
