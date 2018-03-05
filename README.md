@@ -9,7 +9,7 @@ List of Awesome JavaScript Crypto Libraries based on
 ## Categories
 
 * [The W3C Specification (1)](#the-w3c-speicification)
-* [The Big Ones (4)](#the-big-ones)
+* [The Big Ones (5)](#the-big-ones)
 * [The Rest of The Pack (15)](#the-rest-of-the-pack)
 * [No Longer Maintained (8)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
@@ -80,6 +80,21 @@ easy-to-use, cross-browser library for cryptography in Javascript.
 
 JavaScript library of crypto standards based on the inactive
 **CryptoJS**.
+
+
+## [Google Closure Library](https://github.com/google/closure-library) - [Official Site Crypt Class](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-library.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/google/closure-library.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/google/closure-library.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/google/closure-library.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/google/closure-library.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/google/closure-library.svg?style=flat-square)]()
+
+Google's common JavaScript library. Closure Library is a powerful,
+low-level JavaScript library designed for building complex and scalable
+web applications. It is used by many Google web applications, such as
+Google Search, Gmail, Google Docs, Google+, Google Maps, and others.
 
 
 ## [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - [Official Site](https://openpgpjs.org)
@@ -157,21 +172,6 @@ The Forge software is a fully native implementation of the
 [TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security) protocol in
 JavaScript, a set of cryptography utilities, and a set of tools for
 developing Web Apps that utilize many network resources.
-
-
-## [Google Closure Library](https://github.com/google/closure-library) - [Official Site Crypt Class](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-library.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/google/closure-library.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/google/closure-library.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/google/closure-library.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/google/closure-library.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/google/closure-library.svg?style=flat-square)]()
-
-Google's common JavaScript library. Closure Library is a powerful,
-low-level JavaScript library designed for building complex and scalable
-web applications. It is used by many Google web applications, such as
-Google Search, Gmail, Google Docs, Google+, Google Maps, and others.
 
 
 ## [JavaScript Crypto Library](https://github.com/clipperz/javascript-crypto-library) by Clipperz - No Official Site
