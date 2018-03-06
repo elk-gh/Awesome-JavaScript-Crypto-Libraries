@@ -10,7 +10,7 @@ List of Awesome JavaScript Crypto Libraries based on
 
 * [The W3C Specification (1)](#the-w3c-speicification)
 * [The Big Ones (6)](#the-big-ones)
-* [The Rest of The Pack (17)](#the-rest-of-the-pack)
+* [The Rest of The Pack (18)](#the-rest-of-the-pack)
 * [No Longer Maintained (9)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
 
@@ -307,6 +307,19 @@ generated wrappers to make it easy to use in web applications.
 Simple Javascript cryptography library that wraps incompatible WebCrypto
 implementations, utilizes encryption algorithms that all WebCrypto
 enabled browsers support and provides a much simpler interface.
+
+
+## [rusha](https://github.com/srijs/rusha) - [Official Site](https://www.npmjs.com/package/rusha)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/srijs/rusha.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/srijs/rusha.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/srijs/rusha.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/srijs/rusha.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/srijs/rusha.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/srijs/rusha.svg?style=flat-square)]()
+
+High-performance pure-javascript SHA1 implementation suitable for large
+binary data, reaching up to half the native speed.
 
 
 ## [Themis](https://github.com/cossacklabs/themis) - [Official Site](https://www.cossacklabs.com/themis/)
