@@ -11,7 +11,7 @@ List of Awesome JavaScript Crypto Libraries based on
 * [The W3C Specification (1)](#the-w3c-speicification)
 * [The Big Ones (5)](#the-big-ones)
 * [The Rest of The Pack (15)](#the-rest-of-the-pack)
-* [No Longer Maintained (8)](#no-longer-maintained)
+* [No Longer Maintained (9)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
 
 
@@ -372,6 +372,20 @@ to use modern technologies. CURRENTLY they move to
 [![GitHub issues](https://img.shields.io/github/issues/wwwtyro/cryptico.svg?style=flat-square)]()
 
 An easy-to-use encryption system utilizing RSA and AES for javascript.
+
+
+## [cryptojs](https://github.com/gwjjeff/cryptojs) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/gwjjeff/cryptojs.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/gwjjeff/cryptojs.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/gwjjeff/cryptojs.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/gwjjeff/cryptojs.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/gwjjeff/cryptojs.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/gwjjeff/cryptojs.svg?style=flat-square)]()
+
+Following googlecode project crypto-js, provide standard and secure
+cryptographic algorithms for NodeJS. Support MD5, SHA-1, SHA-256, RC4,
+Rabbit, AES, DES, PBKDF2, HMAC, OFB, CFB, CTR, CBC, Base64
 
 
 ## [javascript-rsa](https://github.com/ziyan/javascript-rsa) - No Official Site
