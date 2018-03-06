@@ -9,7 +9,7 @@ List of Awesome JavaScript Crypto Libraries based on
 ## Categories
 
 * [The W3C Specification (1)](#the-w3c-speicification)
-* [The Big Ones (5)](#the-big-ones)
+* [The Big Ones (6)](#the-big-ones)
 * [The Rest of The Pack (17)](#the-rest-of-the-pack)
 * [No Longer Maintained (9)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
@@ -110,6 +110,18 @@ This project aims to provide an Open Source OpenPGP library in
 JavaScript so it can be used on virtually every device. Instead of other
 implementations that are aimed at using native code, OpenPGP.js is meant
 to bypass this requirement.
+
+
+## [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
+
+bcrypt for NodeJs. 
 
 
 
