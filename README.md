@@ -10,7 +10,7 @@ List of Awesome JavaScript Crypto Libraries based on
 
 * [The W3C Specification (1)](#the-w3c-speicification)
 * [The Big Ones (5)](#the-big-ones)
-* [The Rest of The Pack (15)](#the-rest-of-the-pack)
+* [The Rest of The Pack (16)](#the-rest-of-the-pack)
 * [No Longer Maintained (9)](#no-longer-maintained)
 * [Unknown Status (7)](#unknown-status)
 
@@ -214,6 +214,22 @@ A simple wrapper around _Tom Wu library_ that basically uses the library
 [practically](https://github.com/travist/jsencrypt/pull/6) untouched,
 but adds a wrapper to provide parsing of actual Private and Public
 key-pairs generated with OpenSSL.
+
+
+## [jsHashes](https://github.com/h2non/jshashes) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/h2non/jshashes.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/h2non/jshashes.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/h2non/jshashes.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/h2non/jshashes.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/h2non/jshashes.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/h2non/jshashes.svg?style=flat-square)]()
+
+Fast and dependency-free cryptographic hashing library for node.js and
+browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC). `jshashes`
+is lightweight library implementing the most extended
+[cryptographic hash function](http://en.wikipedia.org/wiki/Cryptographic_hash_function)
+algorithms in pure JavaScript (ES5 compliant).
 
 
 ## [jsrsasign](https://github.com/kjur/jsrsasign) - [Official Site](http://kjur.github.io/jsrsasign)
