@@ -44,7 +44,6 @@ Frameworks with more than ~3KB GitHub Stars.
 ## [Crypto Module](https://github.com/nodejs/node) by NodeJS - [Official Site Crypto Module](https://nodejs.org/api/crypto.html)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nodejs/node.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/nodejs/node.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/nodejs/node.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/nodejs/node.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/nodejs/node.svg?style=flat-square)]()
@@ -58,7 +57,6 @@ verify functions.
 ## [SJCL - Stanford Javascript Crypto Library](https://github.com/bitwiseshiftleft/sjcl) - [Official Site](http://bitwiseshiftleft.github.io/sjcl)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/bitwiseshiftleft/sjcl.svg?style=flat-square)]()
@@ -72,7 +70,6 @@ easy-to-use, cross-browser library for cryptography in Javascript.
 ## [crypto-js](https://github.com/brix/crypto-js) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/brix/crypto-js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/brix/crypto-js.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/brix/crypto-js.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/brix/crypto-js.svg?style=flat-square)]()
@@ -85,7 +82,6 @@ JavaScript library of crypto standards based on the inactive
 ## [Google Closure Library](https://github.com/google/closure-library) - [Official Site Crypt Class](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-library.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/google/closure-library.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/google/closure-library.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/google/closure-library.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/google/closure-library.svg?style=flat-square)]()
@@ -100,7 +96,6 @@ Google Search, Gmail, Google Docs, Google+, Google Maps, and others.
 ## [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - [Official Site](https://openpgpjs.org)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/openpgpjs/openpgpjs.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/openpgpjs/openpgpjs.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/openpgpjs/openpgpjs.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/openpgpjs/openpgpjs.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/openpgpjs/openpgpjs.svg?style=flat-square)]()
@@ -115,7 +110,6 @@ to bypass this requirement.
 ## [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/kelektiv/node.bcrypt.js.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/kelektiv/node.bcrypt.js.svg?style=flat-square)]()

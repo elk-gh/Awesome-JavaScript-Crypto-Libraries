@@ -9,7 +9,6 @@
 ## [asmCrypto](https://github.com/asmcrypto/asmcrypto.js) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/asmcrypto/asmcrypto.js.svg?style=flat-square)]()
@@ -22,7 +21,6 @@ performance in mind.
 ## [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/dcodeIO/bcrypt.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/dcodeIO/bcrypt.js.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/dcodeIO/bcrypt.js.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/dcodeIO/bcrypt.js.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/dcodeIO/bcrypt.js.svg?style=flat-square)]()
@@ -35,7 +33,6 @@ C++ [bcrypt](https://npmjs.org/package/bcrypt) binding on node.js.
 ## [BrowserID Crypto](https://github.com/mozilla/browserid-crypto) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/browserid-crypto.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/mozilla/browserid-crypto.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/mozilla/browserid-crypto.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/mozilla/browserid-crypto.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/mozilla/browserid-crypto.svg?style=flat-square)]()
@@ -48,7 +45,6 @@ JSON Web Certificates by Mozilla.
 ## [Forge](https://github.com/digitalbazaar/forge) - [Official Site](https://digitalbazaar.com/forge)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/digitalbazaar/forge.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/digitalbazaar/forge.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/digitalbazaar/forge.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/digitalbazaar/forge.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/digitalbazaar/forge.svg?style=flat-square)]()
@@ -63,7 +59,6 @@ developing Web Apps that utilize many network resources.
 ## [JavaScript Crypto Library](https://github.com/clipperz/javascript-crypto-library) by Clipperz - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/clipperz/javascript-crypto-library.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/clipperz/javascript-crypto-library.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/clipperz/javascript-crypto-library.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/clipperz/javascript-crypto-library.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/clipperz/javascript-crypto-library.svg?style=flat-square)]()
@@ -77,7 +72,6 @@ maximum execution speed while preserving modularity and reusability.
 ## [js-nacl](https://github.com/tonyg/js-nacl) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/tonyg/js-nacl.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/tonyg/js-nacl.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/tonyg/js-nacl.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/tonyg/js-nacl.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/tonyg/js-nacl.svg?style=flat-square)]()
@@ -90,7 +84,6 @@ routines.
 ## [JSEncrypt](https://github.com/travist/jsencrypt) - [Official Site](http://travistidwell.com/jsencrypt)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/travist/jsencrypt.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/travist/jsencrypt.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/travist/jsencrypt.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/travist/jsencrypt.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/travist/jsencrypt.svg?style=flat-square)]()
@@ -105,7 +98,6 @@ key-pairs generated with OpenSSL.
 ## [jsHashes](https://github.com/h2non/jshashes) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/h2non/jshashes.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/h2non/jshashes.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/h2non/jshashes.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/h2non/jshashes.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/h2non/jshashes.svg?style=flat-square)]()
@@ -121,7 +113,6 @@ algorithms in pure JavaScript (ES5 compliant).
 ## [jsrsasign](https://github.com/kjur/jsrsasign) - [Official Site](http://kjur.github.io/jsrsasign)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/kjur/jsrsasign.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/kjur/jsrsasign.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/kjur/jsrsasign.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/kjur/jsrsasign.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/kjur/jsrsasign.svg?style=flat-square)]()
@@ -137,7 +128,6 @@ JavaScript.
 ## [jsSHA](https://github.com/Caligatio/jsSHA) - [Official Site](https://caligatio.github.io/jsSHA)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Caligatio/jsSHA.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/Caligatio/jsSHA.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/Caligatio/jsSHA.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/Caligatio/jsSHA.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/Caligatio/jsSHA.svg?style=flat-square)]()
@@ -157,7 +147,6 @@ jsSHA is also 100% cross-browser compatible and works with Node.js.
 ## [libsodium.js](https://github.com/jedisct1/libsodium.js)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jedisct1/libsodium.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/jedisct1/libsodium.js.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/jedisct1/libsodium.js.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/jedisct1/libsodium.js.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/jedisct1/libsodium.js.svg?style=flat-square)]()
@@ -172,7 +161,6 @@ generated wrappers to make it easy to use in web applications.
 ## [simplecrypto for javascript](https://github.com/encryb/simplecrypto)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/encryb/simplecrypto.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/encryb/simplecrypto.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/encryb/simplecrypto.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/encryb/simplecrypto.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/encryb/simplecrypto.svg?style=flat-square)]()
@@ -186,7 +174,6 @@ enabled browsers support and provides a much simpler interface.
 ## [rusha](https://github.com/srijs/rusha) - [Official Site](https://www.npmjs.com/package/rusha)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/srijs/rusha.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/srijs/rusha.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/srijs/rusha.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/srijs/rusha.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/srijs/rusha.svg?style=flat-square)]()
@@ -199,7 +186,6 @@ binary data, reaching up to half the native speed.
 ## [Themis](https://github.com/cossacklabs/themis) - [Official Site](https://www.cossacklabs.com/themis/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/cossacklabs/themis.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/cossacklabs/themis.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/cossacklabs/themis.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/cossacklabs/themis.svg?style=flat-square)]()
@@ -213,7 +199,6 @@ Swift, Obj-C, Android/Java, С++, Python, Ruby, PHP, Go.
 ## [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - [Official Site](https://tweetnacl.js.org)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/dchest/tweetnacl-js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/dchest/tweetnacl-js.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/dchest/tweetnacl-js.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/dchest/tweetnacl-js.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/dchest/tweetnacl-js.svg?style=flat-square)]()
@@ -229,7 +214,6 @@ and public-key signatures. High-level crypto library in only 7 KB
 ## [URSA](https://github.com/quartzjer/ursa) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/quartzjer/ursa.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/quartzjer/ursa.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/quartzjer/ursa.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/quartzjer/ursa.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/quartzjer/ursa.svg?style=flat-square)]()
@@ -241,7 +225,6 @@ RSA public/private key OpenSSL bindings for Node.js
 ## [WebCrypto GOST](https://github.com/rudonick/crypto) - [Official Site](http://gostcrypto.com)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rudonick/crypto.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/rudonick/crypto.svg?style=flat-square)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/rudonick/crypto.svg?style=flat-square)]()
 [![GitHub stars](https://img.shields.io/github/stars/rudonick/crypto.svg?style=flat-square)]()
 [![GitHub forks](https://img.shields.io/github/forks/rudonick/crypto.svg?style=flat-square)]()
