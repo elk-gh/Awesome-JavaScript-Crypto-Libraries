@@ -18,10 +18,11 @@ List of Awesome JavaScript Crypto Libraries based on
 
 ## The W3C Specification
 
-## [WebCryptoAPI](http://www.w3.org/TR/WebCryptoAPI) - W3C Recommendation
+## WebCryptoAPI
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](http://www.w3.org/TR/WebCryptoAPI)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last%20update-2017-brightgreen.svg?style=flat-square)
-![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)
 
 This specification describes a JavaScript API for performing basic
 cryptographic operations in web applications, such as hashing, signature
@@ -41,8 +42,10 @@ signing, and the confidentiality and integrity of communications.
 Frameworks with more than ~3KB GitHub Stars.
 
 
-## [Crypto Module](https://github.com/nodejs/node) by NodeJS - [Official Site Crypto Module](https://nodejs.org/api/crypto.html)
+## Crypto Module in NodeJS
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](https://nodejs.org/api/crypto.html)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square)](https://github.com/nodejs/node)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nodejs/node.svg?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/nodejs/node.svg?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/nodejs/node.svg?style=flat-square)
@@ -51,11 +54,13 @@ Frameworks with more than ~3KB GitHub Stars.
 
 The `crypto` module provides cryptographic functionality that includes a
 set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign and
-verify functions.
+verify functions. **NOTE:** GitHub stats are from all NodeJS project.
 
 
-## [SJCL - Stanford Javascript Crypto Library](https://github.com/bitwiseshiftleft/sjcl) - [Official Site](http://bitwiseshiftleft.github.io/sjcl)
+## SJCL - Stanford Javascript Crypto Library
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](http://bitwiseshiftleft.github.io/sjcl)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square)](https://github.com/bitwiseshiftleft/sjcl)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bitwiseshiftleft/sjcl.svg?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/bitwiseshiftleft/sjcl.svg?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/bitwiseshiftleft/sjcl.svg?style=flat-square)
@@ -67,8 +72,10 @@ Stanford Computer Security Lab to build a secure, powerful, fast, small,
 easy-to-use, cross-browser library for cryptography in Javascript.
 
 
-## [crypto-js](https://github.com/brix/crypto-js) - No Official Site
+## crypto-js
 
+![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square)](https://github.com/brix/crypto-js)
 ![GitHub last commit](https://img.shields.io/github/last-commit/brix/crypto-js.svg?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/brix/crypto-js.svg?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js.svg?style=flat-square)
@@ -79,8 +86,10 @@ JavaScript library of crypto standards based on the inactive
 **CryptoJS**.
 
 
-## [Google Closure Library](https://github.com/google/closure-library) - [Official Site Crypt Class](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
+## Encryption Modules in Google Closure Library
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square)](https://github.com/google/closure-library)
 ![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-library.svg?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/google/closure-library.svg?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/google/closure-library.svg?style=flat-square)
@@ -91,10 +100,13 @@ Google's common JavaScript library. Closure Library is a powerful,
 low-level JavaScript library designed for building complex and scalable
 web applications. It is used by many Google web applications, such as
 Google Search, Gmail, Google Docs, Google+, Google Maps, and others.
+**NOTE:** GitHub stats are from all Closure Library project.
 
 
-## [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - [Official Site](https://openpgpjs.org)
+## OpenPGP.js
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](https://openpgpjs.org)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square)](https://github.com/openpgpjs/openpgpjs)
 ![GitHub last commit](https://img.shields.io/github/last-commit/openpgpjs/openpgpjs.svg?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/openpgpjs/openpgpjs.svg?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/openpgpjs/openpgpjs.svg?style=flat-square)
@@ -107,8 +119,10 @@ implementations that are aimed at using native code, OpenPGP.js is meant
 to bypass this requirement.
 
 
-## [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - No Official Site
+## node.bcrypt.js
 
+![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square)](https://github.com/kelektiv/node.bcrypt.js)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kelektiv/node.bcrypt.js.svg?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/kelektiv/node.bcrypt.js.svg?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/kelektiv/node.bcrypt.js.svg?style=flat-square)

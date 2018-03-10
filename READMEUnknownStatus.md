@@ -6,9 +6,10 @@
 ## Unknown Status
 
 
-## [crypto](http://ats.oka.nu/titaniumcore/js/crypto)
+## crypto
 
-![GitHub watchers](https://img.shields.io/badge/status-unknown-red.svg?style=flat-square)
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](http://ats.oka.nu/titaniumcore/js/crypto)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square)
 
 JavaScript Cryptography Toolkit: This library is an object oriented
 cryptography toolkit that implements several fundamental cryptographic
@@ -21,20 +22,22 @@ such as freezing browsers, "slow-downing" warning dialogs, etc.
 Asynchronous RSA key generation and based on jsbn.
 
 
-## [CryptoJS](https://code.google.com/archive/p/crypto-js)
+## CryptoJS
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](https://code.google.com/archive/p/crypto-js)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last%20update-2013-orange.svg?style=flat-square)
-![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)
 
 CryptoJS is a growing collection of standard and secure cryptographic
 algorithms implemented in JavaScript using best practices and patterns.
 They are fast, and they have a consistent and simple interface.
 
 
-## [jsbn](http://www-cs-students.stanford.edu/~tjw/jsbn)
+## jsbn
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](http://www-cs-students.stanford.edu/~tjw/jsbn)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last%20update-2013-orange.svg?style=flat-square)
-![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)
 
 The Original **Tom Wu** RSA and ECC library in JavaScript. A fast,
 portable implementation of large-number math in pure JavaScript,
@@ -42,10 +45,11 @@ enabling public-key crypto and other applications on desktop and mobile
 browsers.
 
 
-## [jscrypto](https://code.google.com/archive/p/jscryptolib)
+## jscrypto
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](https://code.google.com/archive/p/jscryptolib)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last%20update-2009-lightgrey.svg?style=flat-square)
-![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)
 
 This library is an object oriented cryptography library that implements
 several fundamental cryptographic algorithms including AES, SHA-1, HMAC,
@@ -53,17 +57,19 @@ BASE64, RSA, ECC and IBE for JavaScript. This library works in
 ActionScript as well.
 
 
-## [OpenPGP Message Encryption in Javascript](http://www.hanewin.net/encrypt)
+## OpenPGP Message Encryption in Javascript
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](http://www.hanewin.net/encrypt)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last%20update-2011-lightgrey.svg?style=flat-square)
-![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)
 
 OpenPGP Message Encryption in JavaScript by Herbert Hanewinkel.
 
 
-## [pidCrypt](http://www.pidder.com/pidcrypt)
+## pidCrypt
 
-![GitHub watchers](https://img.shields.io/badge/status-unknown-red.svg?style=flat-square)
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](http://www.pidder.com/pidcrypt)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square)
 
 pidCrypt is a crypto library offering modular cryptographic functions in
 JavaScript. Supports: AES (CBC & CTR Mode), RSA, MD5, SHA-1, SHA-256,
@@ -71,10 +77,11 @@ SHA-384, SHA-512, ASN.1, Base64, UTF-8. The AES-CBC mode is compatible
 to OpenSSL.
 
 
-## [RSA in JavaScript v2](http://ohdave.com/rsa)
+## RSA in JavaScript v2
 
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square)](http://ohdave.com/rsa)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last%20update-2015-yellowgreen.svg?style=flat-square)
-![GitHub watchers](https://img.shields.io/badge/github%20repo-none-red.svg?style=flat-square)
 
 RSA.js is a suite of routines for performing RSA public-key computations
 in JavaScript. The cryptographic functions herein are used for encoding
