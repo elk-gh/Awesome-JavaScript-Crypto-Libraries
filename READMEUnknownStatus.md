@@ -6,7 +6,7 @@
 ## Unknown Status
 
 
-#### crypto
+### _crypto_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://ats.oka.nu/titaniumcore/js/crypto)
 ![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
@@ -22,7 +22,7 @@ such as freezing browsers, "slow-downing" warning dialogs, etc.
 Asynchronous RSA key generation and based on jsbn.
 
 
-#### CryptoJS
+### _CryptoJS_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://code.google.com/archive/p/crypto-js)
 ![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
@@ -33,7 +33,7 @@ algorithms implemented in JavaScript using best practices and patterns.
 They are fast, and they have a consistent and simple interface.
 
 
-#### jsbn
+### _jsbn_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://www-cs-students.stanford.edu/~tjw/jsbn)
 ![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
@@ -45,7 +45,7 @@ enabling public-key crypto and other applications on desktop and mobile
 browsers.
 
 
-#### jscrypto
+### _jscrypto_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://code.google.com/archive/p/jscryptolib)
 ![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
@@ -57,7 +57,7 @@ BASE64, RSA, ECC and IBE for JavaScript. This library works in
 ActionScript as well.
 
 
-#### OpenPGP Message Encryption in Javascript
+### _OpenPGP Message Encryption in Javascript_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://www.hanewin.net/encrypt)
 ![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
@@ -66,7 +66,7 @@ ActionScript as well.
 OpenPGP Message Encryption in JavaScript by Herbert Hanewinkel.
 
 
-#### pidCrypt
+### _pidCrypt_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://www.pidder.com/pidcrypt)
 ![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
@@ -77,7 +77,7 @@ SHA-384, SHA-512, ASN.1, Base64, UTF-8. The AES-CBC mode is compatible
 to OpenSSL.
 
 
-#### RSA in JavaScript v2
+### _RSA in JavaScript v2_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://ohdave.com/rsa)
 ![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)

@@ -9,7 +9,7 @@ Frameworks with more than ~3 years without updates or officially no
 longer maintained.
 
 
-#### bcrypt for NodeJS
+### _bcrypt for NodeJS_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/shaneGirish/bcrypt-nodejs)
@@ -23,7 +23,7 @@ Native implementation of bcrypt for NodeJS. This project is not actively
 maintained.
 
 
-#### Cifre
+### _Cifre_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/hookflash/obsolete.cifre)
@@ -39,7 +39,7 @@ to use modern technologies. CURRENTLY they move to
 [FORGE](#forge---official-site).
 
 
-#### Cryptico
+### _Cryptico_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://wwwtyro.github.io/cryptico)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/wwwtyro/cryptico)
@@ -52,7 +52,7 @@ to use modern technologies. CURRENTLY they move to
 An easy-to-use encryption system utilizing RSA and AES for javascript.
 
 
-#### cryptojs
+### _cryptojs_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/gwjjeff/cryptojs)
@@ -67,7 +67,7 @@ cryptographic algorithms for NodeJS. Support MD5, SHA-1, SHA-256, RC4,
 Rabbit, AES, DES, PBKDF2, HMAC, OFB, CFB, CTR, CBC, Base64
 
 
-#### javascript-rsa
+### _javascript-rsa_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/ziyan/javascript-rsa)
@@ -80,7 +80,7 @@ Rabbit, AES, DES, PBKDF2, HMAC, OFB, CFB, CTR, CBC, Base64
 RSA encryption with javascript.
 
 
-#### jCryption
+### _jCryption_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://www.jcryption.org)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/HazAT/jCryption)
@@ -93,7 +93,7 @@ RSA encryption with javascript.
 Javascript HTML-Form encryption plugin. DISCONTINUED.
 
 
-#### pidCrypt for node.js/browserify
+### _pidCrypt for node.js/browserify_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/nikvdp/pidcrypt)
@@ -107,7 +107,7 @@ This is a copy of the [pidCrypt](#pidCrypt) with some modifications to
 make it compatible with node.js and browserify.
 
 
-#### PolyCrypt
+### _PolyCrypt_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://polycrypt.net)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/polycrypt/polycrypt)
@@ -120,7 +120,7 @@ make it compatible with node.js and browserify.
 A pure JS implementation of the WebCrypto API.
 
 
-#### protocrypt
+### _protocrypt_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/starpeak/protocrypt)

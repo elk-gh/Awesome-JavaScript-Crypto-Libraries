@@ -1,4 +1,4 @@
-# Gabo's Awesome JavaScript Crypto Libraries
+# _Gabo's_ Awesome JavaScript Crypto Libraries
 
 [_Return to Categories_](README.md)
 
@@ -6,7 +6,7 @@
 ## The Rest of The Pack
 
 
-#### asmCrypto
+### _asmCrypto_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/asmcrypto/asmcrypto.js)
@@ -20,7 +20,7 @@ JavaScript implementation of popular cryptographic utilities with
 performance in mind.
 
 
-#### bcrypt.js
+### _bcrypt.js_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/dcodeIO/bcrypt.js)
@@ -34,7 +34,7 @@ Optimized bcrypt in JavaScript with zero dependencies. Compatible to the
 C++ [bcrypt](https://npmjs.org/package/bcrypt) binding on node.js.
 
 
-#### BrowserID Crypto
+### _BrowserID Crypto_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/mozilla/browserid-crypto)
@@ -48,7 +48,7 @@ JavaScript implementation of JSON Web Signatures, JSON Web Tokens, and
 JSON Web Certificates by Mozilla.
 
 
-#### Clipperz JavaScript Crypto Library
+### _Clipperz JavaScript Crypto Library_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/clipperz/javascript-crypto-library)
@@ -63,7 +63,7 @@ and efficient set of cryptographic functions. The library aims to obtain
 maximum execution speed while preserving modularity and reusability.
 
 
-#### Forge
+### _Forge_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://digitalbazaar.com/forge)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/digitalbazaar/forge)
@@ -79,7 +79,7 @@ JavaScript, a set of cryptography utilities, and a set of tools for
 developing Web Apps that utilize many network resources.
 
 
-#### js-nacl
+### _js-nacl_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/tonyg/js-nacl)
@@ -93,7 +93,7 @@ Pure-Javascript High-level API to Emscripten-compiled libsodium
 routines.
 
 
-#### JSEncrypt
+### _JSEncrypt_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://travistidwell.com/jsencrypt)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/travist/jsencrypt)
@@ -109,7 +109,7 @@ but adds a wrapper to provide parsing of actual Private and Public
 key-pairs generated with OpenSSL.
 
 
-#### jsHashes
+### _jsHashes_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/h2non/jshashes)
@@ -126,7 +126,7 @@ is lightweight library implementing the most extended
 algorithms in pure JavaScript (ES5 compliant).
 
 
-#### jsrsasign
+### _jsrsasign_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://kjur.github.io/jsrsasign)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/kjur/jsrsasign)
@@ -143,7 +143,7 @@ SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure
 JavaScript.
 
 
-#### jsSHA
+### _jsSHA_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://caligatio.github.io/jsSHA)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/Caligatio/jsSHA)
@@ -164,7 +164,7 @@ SHA-512, SHA3-512, SHAKE128, and SHAKE256) as well as HMAC as defined in
 jsSHA is also 100% cross-browser compatible and works with Node.js.
 
 
-#### libsodium.js
+### _libsodium.js_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/jedisct1/libsodium.js)
@@ -180,7 +180,7 @@ compiled to pure JavaScript using
 generated wrappers to make it easy to use in web applications.
 
 
-#### simplecrypto for javascript
+### _simplecrypto for javascript_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/encryb/simplecrypto)
@@ -195,7 +195,7 @@ implementations, utilizes encryption algorithms that all WebCrypto
 enabled browsers support and provides a much simpler interface.
 
 
-#### rusha
+### _rusha_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://www.npmjs.com/package/rusha)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/srijs/rusha)
@@ -209,7 +209,7 @@ High-performance pure-javascript SHA1 implementation suitable for large
 binary data, reaching up to half the native speed.
 
 
-#### Themis
+### _Themis_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://www.cossacklabs.com/themis/)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/cossacklabs/themis)
@@ -224,7 +224,7 @@ servers and front-ends. Crypto library for storage and messaging for JS,
 Swift, Obj-C, Android/Java, С++, Python, Ruby, PHP, Go.
 
 
-#### TweetNaCl.js
+### _TweetNaCl.js_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://tweetnacl.js.org)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/dchest/tweetnacl-js)
@@ -241,7 +241,7 @@ and public-key signatures. High-level crypto library in only 7 KB
 (minified and gzipped)!
 
 
-#### URSA
+### _URSA_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/quartzjer/ursa)
@@ -254,7 +254,7 @@ and public-key signatures. High-level crypto library in only 7 KB
 RSA public/private key OpenSSL bindings for Node.js
 
 
-#### WebCrypto GOST
+### _WebCrypto GOST_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://gostcrypto.com)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/rudonick/crypto)
