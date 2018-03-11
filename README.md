@@ -18,7 +18,7 @@ List of Awesome JavaScript Crypto Libraries based on
 
 ## The W3C Specification
 
-## WebCryptoAPI
+#### WebCryptoAPI
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://www.w3.org/TR/WebCryptoAPI)
 ![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
@@ -42,7 +42,7 @@ signing, and the confidentiality and integrity of communications.
 Frameworks with more than ~3KB GitHub Stars.
 
 
-## Crypto Module in NodeJS
+#### Crypto Module in NodeJS
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://nodejs.org/api/crypto.html)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/nodejs/node)
@@ -57,7 +57,7 @@ set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign and
 verify functions. **NOTE:** GitHub stats are from all NodeJS project.
 
 
-## SJCL - Stanford Javascript Crypto Library
+#### SJCL - Stanford Javascript Crypto Library
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://bitwiseshiftleft.github.io/sjcl)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/bitwiseshiftleft/sjcl)
@@ -72,7 +72,7 @@ Stanford Computer Security Lab to build a secure, powerful, fast, small,
 easy-to-use, cross-browser library for cryptography in Javascript.
 
 
-## crypto-js
+#### crypto-js
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/brix/crypto-js)
@@ -86,7 +86,7 @@ JavaScript library of crypto standards based on the inactive
 **CryptoJS**.
 
 
-## Encryption Modules in Google Closure Library
+#### Encryption Modules in Google Closure Library
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/google/closure-library)
@@ -103,7 +103,7 @@ Google Search, Gmail, Google Docs, Google+, Google Maps, and others.
 **NOTE:** GitHub stats are from all Closure Library project.
 
 
-## OpenPGP.js
+#### OpenPGP.js
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://openpgpjs.org)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/openpgpjs/openpgpjs)
@@ -119,7 +119,7 @@ implementations that are aimed at using native code, OpenPGP.js is meant
 to bypass this requirement.
 
 
-## node.bcrypt.js
+#### node.bcrypt.js
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/kelektiv/node.bcrypt.js)
