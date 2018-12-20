@@ -21,7 +21,7 @@ List of Awesome JavaScript Crypto Libraries based on
 ### _WebCryptoAPI_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://www.w3.org/TR/WebCryptoAPI)
-![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
+[![GitHub Repo](https://img.shields.io/badge/github-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/w3c/webcrypto)
 ![Last Update](https://img.shields.io/badge/last%20update-2017-brightgreen.svg?style=flat-square&maxAge=5184000)
 
 This specification describes a JavaScript API for performing basic
