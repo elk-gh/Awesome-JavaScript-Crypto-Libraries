@@ -213,11 +213,11 @@ binary data, reaching up to half the native speed.
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://www.cossacklabs.com/themis/)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/cossacklabs/themis)
-![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)]()
-![GitHub watchers](https://img.shields.io/github/watchers/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)]()
-![GitHub stars](https://img.shields.io/github/stars/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)]()
-![GitHub forks](https://img.shields.io/github/forks/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)]()
-![GitHub issues](https://img.shields.io/github/issues/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)]()
+![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)
+![GitHub watchers](https://img.shields.io/github/watchers/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)
+![GitHub stars](https://img.shields.io/github/stars/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)
+![GitHub forks](https://img.shields.io/github/forks/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)
+![GitHub issues](https://img.shields.io/github/issues/cossacklabs/themis.svg?style=flat-square&maxAge=5184000)
 
 Human friendly crypto library for storage and messaging for mobile apps,
 servers and front-ends. Crypto library for storage and messaging for JS,
