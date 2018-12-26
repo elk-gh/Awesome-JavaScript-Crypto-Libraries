@@ -20,9 +20,13 @@ List of Awesome JavaScript Crypto Libraries based on
 
 ### _WebCryptoAPI_
 
-[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://www.w3.org/TR/WebCryptoAPI)
-[![GitHub Repo](https://img.shields.io/badge/github-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/w3c/webcrypto)
-![Last Update](https://img.shields.io/badge/last%20update-2017-brightgreen.svg?style=flat-square&maxAge=5184000)
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://www.w3.org/TR/WebCryptoAPI/)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/w3c/webcrypto)
+![GitHub last commit](https://img.shields.io/github/last-commit/w3c/webcrypto.svg?style=flat-square&maxAge=5184000)
+![GitHub watchers](https://img.shields.io/github/watchers/w3c/webcrypto.svg?style=flat-square&maxAge=5184000)
+![GitHub stars](https://img.shields.io/github/stars/w3c/webcrypto.svg?style=flat-square&maxAge=5184000)
+![GitHub forks](https://img.shields.io/github/forks/w3c/webcrypto.svg?style=flat-square&maxAge=5184000)
+![GitHub issues](https://img.shields.io/github/issues/w3c/webcrypto.svg?style=flat-square&maxAge=5184000)
 
 This specification describes a JavaScript API for performing basic
 cryptographic operations in web applications, such as hashing, signature
