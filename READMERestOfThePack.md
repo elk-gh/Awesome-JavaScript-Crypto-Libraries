@@ -63,6 +63,23 @@ and efficient set of cryptographic functions. The library aims to obtain
 maximum execution speed while preserving modularity and reusability.
 
 
+### _Encryption Modules in Google Closure Library_
+
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/google/closure-library)
+![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-library.svg?style=flat-square&maxAge=5184000)
+![GitHub watchers](https://img.shields.io/github/watchers/google/closure-library.svg?style=flat-square&maxAge=5184000)
+![GitHub stars](https://img.shields.io/github/stars/google/closure-library.svg?style=flat-square&maxAge=5184000)
+![GitHub forks](https://img.shields.io/github/forks/google/closure-library.svg?style=flat-square&maxAge=5184000)
+![GitHub issues](https://img.shields.io/github/issues/google/closure-library.svg?style=flat-square&maxAge=5184000)
+
+Google's common JavaScript library. Closure Library is a powerful,
+low-level JavaScript library designed for building complex and scalable
+web applications. It is used by many Google web applications, such as
+Google Search, Gmail, Google Docs, Google+, Google Maps, and others.
+**NOTE:** GitHub stats are from all Closure Library project.
+
+
 ### _Forge_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://digitalbazaar.com/forge)

@@ -9,8 +9,8 @@ List of Awesome JavaScript Crypto Libraries based on
 ## Categories
 
 * [The W3C Specification (1)](#the-w3c-specification)
-* [The Big Ones (6)](#the-big-ones)
-* [The Rest of The Pack (17)](READMERestOfThePack.md)
+* [The Big Ones (5)](#the-big-ones)
+* [The Rest of The Pack (18)](READMERestOfThePack.md)
 * [No Longer Maintained (9)](READMENoLongerMaintained.md)
 * [Unknown Status (7)](READMEUnknownStatus.md)
 
@@ -43,7 +43,7 @@ signing, and the confidentiality and integrity of communications.
 
 ## The Big Ones
 
-Frameworks with more than ~3KB GitHub Stars.
+Frameworks with more than ~4KB GitHub Stars.
 
 
 ### _Crypto Module in NodeJS_
@@ -88,23 +88,6 @@ easy-to-use, cross-browser library for cryptography in Javascript.
 
 JavaScript library of crypto standards based on the inactive
 **CryptoJS**.
-
-
-### _Encryption Modules in Google Closure Library_
-
-[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://google.github.io/closure-library/api/goog.crypt.Aes.html)
-[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/google/closure-library)
-![GitHub last commit](https://img.shields.io/github/last-commit/google/closure-library.svg?style=flat-square&maxAge=5184000)
-![GitHub watchers](https://img.shields.io/github/watchers/google/closure-library.svg?style=flat-square&maxAge=5184000)
-![GitHub stars](https://img.shields.io/github/stars/google/closure-library.svg?style=flat-square&maxAge=5184000)
-![GitHub forks](https://img.shields.io/github/forks/google/closure-library.svg?style=flat-square&maxAge=5184000)
-![GitHub issues](https://img.shields.io/github/issues/google/closure-library.svg?style=flat-square&maxAge=5184000)
-
-Google's common JavaScript library. Closure Library is a powerful,
-low-level JavaScript library designed for building complex and scalable
-web applications. It is used by many Google web applications, such as
-Google Search, Gmail, Google Docs, Google+, Google Maps, and others.
-**NOTE:** GitHub stats are from all Closure Library project.
 
 
 ### _OpenPGP.js_
