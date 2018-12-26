@@ -61,6 +61,20 @@ set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign and
 verify functions. **NOTE:** GitHub stats are from all NodeJS project.
   
   
+### _crypto-js_
+
+![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/brix/crypto-js)
+![GitHub last commit](https://img.shields.io/github/last-commit/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
+![GitHub watchers](https://img.shields.io/github/watchers/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
+![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
+![GitHub forks](https://img.shields.io/github/forks/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
+![GitHub issues](https://img.shields.io/github/issues/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
+
+JavaScript library of crypto standards based on the inactive
+**CryptoJS**.
+
+
 ### _SJCL - Stanford Javascript Crypto Library_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://bitwiseshiftleft.github.io/sjcl)
@@ -74,20 +88,6 @@ verify functions. **NOTE:** GitHub stats are from all NodeJS project.
 The Stanford Javascript Crypto Library on GitHub is a project by the
 Stanford Computer Security Lab to build a secure, powerful, fast, small,
 easy-to-use, cross-browser library for cryptography in Javascript.
-
-
-### _crypto-js_
-
-![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
-[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/brix/crypto-js)
-![GitHub last commit](https://img.shields.io/github/last-commit/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
-![GitHub watchers](https://img.shields.io/github/watchers/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
-![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
-![GitHub forks](https://img.shields.io/github/forks/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
-![GitHub issues](https://img.shields.io/github/issues/brix/crypto-js.svg?style=flat-square&maxAge=5184000)
-
-JavaScript library of crypto standards based on the inactive
-**CryptoJS**.
 
 
 ### _OpenPGP.js_
