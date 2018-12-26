@@ -107,7 +107,7 @@ developing Web Apps that utilize many network resources.
 ![GitHub issues](https://img.shields.io/github/issues/IronCoreLabs/ironnode.svg?style=flat-square&maxAge=5184000)
 
 Transform encryption library, a variant of proxy re-encryption, for encrypting to users or groups, and easily adding 
-strong data controls to NodeJS apps.
+strong data controls to NodeJS and Web apps.
 Available for [NodeJS](https://docs.ironcorelabs.com/ironnode-sdk/overview/) and [Web](https://docs.ironcorelabs.com/ironweb-sdk/overview/) Apps.
 
 
