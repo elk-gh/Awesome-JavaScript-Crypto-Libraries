@@ -1,6 +1,6 @@
 # Gabo's Awesome JavaScript Crypto Libraries
 
-[_Return to Categories_](README.md)
+[_Return to Categories_](../README.md)
 
 
 ## No Longer Maintained
@@ -134,4 +134,4 @@ RSA encryption with javascript.
 
 
 
-[_Return to Categories_](README.md)
+[_Return to Categories_](../README.md)

@@ -1,6 +1,6 @@
 # Gabo's Awesome JavaScript Crypto Libraries
 
-[_Return to Categories_](README.md)
+[_Return to Categories_](../README.md)
 
 
 ## Unknown Status
@@ -89,4 +89,4 @@ and decoding strings to be sent over unsecure channels.
 
 
 
-[_Return to Categories_](README.md)
+[_Return to Categories_](../README.md)

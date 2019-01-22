@@ -1,6 +1,6 @@
 # _Gabo's_ Awesome JavaScript Crypto Libraries
 
-[_Return to Categories_](README.md)
+[_Return to Categories_](../README.md)
 
 
 ## The Rest of The Pack
@@ -302,4 +302,4 @@ Standards).
 
 
 
-[_Return to Categories_](README.md)
+[_Return to Categories_](../README.md)
