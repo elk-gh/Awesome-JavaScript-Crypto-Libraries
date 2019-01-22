@@ -276,12 +276,12 @@ and public-key signatures. High-level crypto library in only 7 KB
 ### _URSA_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
-[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/quartzjer/ursa)
-![GitHub last commit](https://img.shields.io/github/last-commit/quartzjer/ursa.svg?style=flat-square&maxAge=5184000)
-![GitHub watchers](https://img.shields.io/github/watchers/quartzjer/ursa.svg?style=flat-square&maxAge=5184000)
-![GitHub stars](https://img.shields.io/github/stars/quartzjer/ursa.svg?style=flat-square&maxAge=5184000)
-![GitHub forks](https://img.shields.io/github/forks/quartzjer/ursa.svg?style=flat-square&maxAge=5184000)
-![GitHub issues](https://img.shields.io/github/issues/quartzjer/ursa.svg?style=flat-square&maxAge=5184000)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/JoshKaufman/ursa)
+![GitHub last commit](https://img.shields.io/github/last-commit/JoshKaufman/ursa.svg?style=flat-square&maxAge=5184000)
+![GitHub watchers](https://img.shields.io/github/watchers/JoshKaufman/ursa.svg?style=flat-square&maxAge=5184000)
+![GitHub stars](https://img.shields.io/github/stars/JoshKaufman/ursa.svg?style=flat-square&maxAge=5184000)
+![GitHub forks](https://img.shields.io/github/forks/JoshKaufman/ursa.svg?style=flat-square&maxAge=5184000)
+![GitHub issues](https://img.shields.io/github/issues/JoshKaufman/ursa.svg?style=flat-square&maxAge=5184000)
 
 RSA public/private key OpenSSL bindings for Node.js
 
