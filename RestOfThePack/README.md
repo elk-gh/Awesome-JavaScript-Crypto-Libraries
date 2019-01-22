@@ -212,6 +212,16 @@ compiled to pure JavaScript using
 generated wrappers to make it easy to use in web applications.
 
 
+### _Pomcor JavaScript Cryptographic Library (PJCL)_
+
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://pomcor.com/pjcl/)
+![GitHub Repo](https://img.shields.io/badge/github-none-red.svg?style=flat-square&maxAge=5184000)
+![Last Update](https://img.shields.io/badge/last%20update-2018-yellowgreen.svg?style=flat-square&maxAge=5184000)
+
+PJCL is a cryptographic library written in JavaScript, currently in beta 
+test, available free of charge under the terms of its license.
+
+
 ### _simplecrypto for javascript_
 
 ![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)

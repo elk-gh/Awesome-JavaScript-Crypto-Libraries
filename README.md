@@ -10,7 +10,7 @@ List of Awesome JavaScript Crypto Libraries based on
 
 * [The W3C Specification (1)](#the-w3c-specification)
 * [The Big Ones (5)](#the-big-ones)
-* [The Rest of The Pack (19)](RestOfThePack/README.md)
+* [The Rest of The Pack (20)](RestOfThePack/README.md)
 * [No Longer Maintained (9)](NoLongerMaintained/README.md)
 * [Unknown Status (7)](UnknownStatus/README.md)
 
