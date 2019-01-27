@@ -296,6 +296,21 @@ and public-key signatures. High-level crypto library in only 7 KB
 RSA public/private key OpenSSL bindings for Node.js
 
 
+### _VESvault_
+
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://ves.host/docs/libVES)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/vesvault/libVES)
+![GitHub last commit](https://img.shields.io/github/last-commit/vesvault/libVES.svg?style=flat-square&maxAge=5184000)
+![GitHub watchers](https://img.shields.io/github/watchers/vesvault/libVES.svg?style=flat-square&maxAge=5184000)
+![GitHub stars](https://img.shields.io/github/stars/vesvault/libVES.svg?style=flat-square&maxAge=5184000)
+![GitHub forks](https://img.shields.io/github/forks/vesvault/libVES.svg?style=flat-square&maxAge=5184000)
+![GitHub issues](https://img.shields.io/github/issues/vesvault/libVES.svg?style=flat-square&maxAge=5184000)
+
+A JavaScript end-to-end encryption API library with 
+[VESrecovery™](https://www.vesvault.com/): Encrypt 
+Everything without fear of losing the Key.
+
+
 ### _WebCrypto GOST_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](http://gostcrypto.com)
