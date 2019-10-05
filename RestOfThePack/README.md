@@ -212,6 +212,23 @@ compiled to pure JavaScript using
 generated wrappers to make it easy to use in web applications.
 
 
+### _OpenCrypto_
+
+![Website](https://img.shields.io/badge/WebSite-Off-red.svg?style=flat-square&maxAge=5184000)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/safebash/opencrypto)
+![GitHub last commit](https://img.shields.io/github/last-commit/safebash/opencrypto.svg?style=flat-square&maxAge=5184000)
+![GitHub watchers](https://img.shields.io/github/watchers/safebash/opencrypto.svg?style=flat-square&maxAge=5184000)
+![GitHub stars](https://img.shields.io/github/stars/safebash/opencrypto.svg?style=flat-square&maxAge=5184000)
+![GitHub forks](https://img.shields.io/github/forks/safebash/opencrypto.svg?style=flat-square&maxAge=5184000)
+![GitHub issues](https://img.shields.io/github/issues/safebash/opencrypto.svg?style=flat-square&maxAge=5184000)
+
+OpenCrypto is a lightweight, high performance, standard-compliant 
+JavaScript library built on top of Web Cryptography API. This library 
+makes it easier to implement cryptography in a browser with less code. 
+It can convert and encode ASN.1, PEM and CryptoKey. OpenCrypto is 
+created and maintained by SafeBash.
+
+
 ### _Pomcor JavaScript Cryptographic Library (PJCL)_
 
 [![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://pomcor.com/pjcl/)
@@ -220,6 +237,20 @@ generated wrappers to make it easy to use in web applications.
 
 PJCL is a cryptographic library written in JavaScript, currently in beta 
 test, available free of charge under the terms of its license.
+
+
+### _rusha_
+
+[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://www.npmjs.com/package/rusha)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/srijs/rusha)
+![GitHub last commit](https://img.shields.io/github/last-commit/srijs/rusha.svg?style=flat-square&maxAge=5184000)
+![GitHub watchers](https://img.shields.io/github/watchers/srijs/rusha.svg?style=flat-square&maxAge=5184000)
+![GitHub stars](https://img.shields.io/github/stars/srijs/rusha.svg?style=flat-square&maxAge=5184000)
+![GitHub forks](https://img.shields.io/github/forks/srijs/rusha.svg?style=flat-square&maxAge=5184000)
+![GitHub issues](https://img.shields.io/github/issues/srijs/rusha.svg?style=flat-square&maxAge=5184000)
+
+High-performance pure-javascript SHA1 implementation suitable for large
+binary data, reaching up to half the native speed.
 
 
 ### _simplecrypto for javascript_
@@ -235,20 +266,6 @@ test, available free of charge under the terms of its license.
 Simple Javascript cryptography library that wraps incompatible WebCrypto
 implementations, utilizes encryption algorithms that all WebCrypto
 enabled browsers support and provides a much simpler interface.
-
-
-### _rusha_
-
-[![Website](https://img.shields.io/badge/WebSite-On-brightgreen.svg?style=flat-square&maxAge=5184000)](https://www.npmjs.com/package/rusha)
-[![GitHub Repo](https://img.shields.io/badge/github-repo-brightgreen.svg?style=flat-square&maxAge=5184000)](https://github.com/srijs/rusha)
-![GitHub last commit](https://img.shields.io/github/last-commit/srijs/rusha.svg?style=flat-square&maxAge=5184000)
-![GitHub watchers](https://img.shields.io/github/watchers/srijs/rusha.svg?style=flat-square&maxAge=5184000)
-![GitHub stars](https://img.shields.io/github/stars/srijs/rusha.svg?style=flat-square&maxAge=5184000)
-![GitHub forks](https://img.shields.io/github/forks/srijs/rusha.svg?style=flat-square&maxAge=5184000)
-![GitHub issues](https://img.shields.io/github/issues/srijs/rusha.svg?style=flat-square&maxAge=5184000)
-
-High-performance pure-javascript SHA1 implementation suitable for large
-binary data, reaching up to half the native speed.
 
 
 ### _Themis_
